@@ -1,0 +1,578 @@
+/*** 
+=============================================
+    Breadcrumb Area Contact Page style
+=============================================
+***/
+
+.breadcrumb-area.contact-page .inner-content-box .title-s2 {
+    padding: 113px 0 220px;
+}
+
+
+/*** 
+=============================================
+    Contact address Area style
+=============================================
+***/
+
+.contact-address-area {
+    position: relative;
+    display: block;
+    background: #f6f6f6;
+    padding-bottom: 102px;
+    z-index: 100;
+}
+
+.single-contact-address-box {
+    position: relative;
+    display: block;
+    background: #ffffff;
+    text-align: center;
+    padding: 40px 30px 32px;
+    -webkit-box-shadow: 0px 4px 6px 2px #ededed;
+    box-shadow: 0px 4px 6px 2px #ededed;
+    margin-top: -115px;
+    margin-bottom: 30px;
+    transition: all 900ms ease 600ms;
+}
+
+.single-contact-address-box:hover {
+    -webkit-box-shadow: 0px 5px 12px 2px #ededed;
+    box-shadow: 0px 5px 12px 2px #ededed;
+}
+
+.single-contact-address-box span:before {
+    color: #b3b3b3;
+    font-size: 50px;
+    line-height: 50px;
+    transition: all 500ms ease;
+}
+
+.single-contact-address-box:hover span:before {
+    color: #d83135;
+}
+
+.single-contact-address-box h3 {
+    color: #27282c;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 600;
+    margin: 20px 0 12px;
+}
+
+.single-contact-address-box p {
+    margin: 0;
+}
+
+.contact-address-area .bottom-text {
+    position: relative;
+    display: block;
+    padding-top: 24px;
+}
+
+.contact-address-area .bottom-text p {
+    margin: 0;
+}
+
+.contact-address-area .bottom-text p a {
+    color: #d83135;
+}
+
+
+/*** 
+=============================================
+    Contact Info Area style
+=============================================
+***/
+
+.contact-info-area {
+    position: relative;
+    display: block;
+    background: #ffffff;
+    padding: 20px 0 110px;
+}
+
+.contact-form {
+    position: relative;
+    display: block;
+    z-index: 3;
+}
+
+.contact-form .inner-box {
+    position: relative;
+    display: block;
+    background: #ffffff;
+    border: 1px solid #ededed;
+    padding: 49px;
+}
+
+.contact-form form {
+    position: relative;
+    display: block;
+}
+
+.contact-form form .input-box {
+    position: relative;
+    display: block;
+}
+
+.contact-form form .input-box .icon {
+    position: absolute;
+    top: 19px;
+    left: 20px;
+}
+
+.contact-form form .input-box .icon i {
+    color: #b6b6b6;
+    font-size: 16px;
+}
+
+.contact-form form .input-box .icon.envelop {
+    position: absolute;
+    top: 16px;
+    left: 20px;
+}
+
+.contact-form form input[type="text"],
+.contact-form form input[type="email"],
+.contact-form form textarea {
+    position: relative;
+    display: block;
+    background: #ffffff;
+    border: 1px solid #ededed;
+    width: 100%;
+    height: 60px;
+    font-size: 15px;
+    padding-left: 50px;
+    padding-right: 20px;
+    border-radius: 0px;
+    margin-bottom: 30px;
+    transition: all 500ms ease;
+}
+
+.contact-form form textarea {
+    height: 110px;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 14px;
+    padding-bottom: 15px;
+}
+
+.contact-form form input[type="text"]:focus {
+    border-color: #1d1d1d;
+    color: #222222;
+}
+
+.contact-form form input[type="email"]:focus {
+    border-color: #1d1d1d;
+    color: #222222;
+}
+
+.contact-form form textarea:focus {
+    border-color: #1d1d1d;
+    color: #222222;
+}
+
+.contact-form form input[type="text"]::-webkit-input-placeholder {
+    color: #828282;
+}
+
+.contact-form form input[type="text"]:-moz-placeholder {
+    color: #828282;
+}
+
+.contact-form form input[type="text"]::-moz-placeholder {
+    color: #828282;
+}
+
+.contact-form form input[type="text"]:-ms-input-placeholder {
+    color: #828282;
+}
+
+.contact-form form input[type="email"]::-webkit-input-placeholder {
+    color: #828282;
+}
+
+.contact-form form input[type="email"]:-moz-placeholder {
+    color: #828282;
+}
+
+.contact-form form input[type="email"]::-moz-placeholder {
+    color: #828282;
+}
+
+.contact-form form input[type="email"]:-ms-input-placeholder {
+    color: #828282;
+}
+
+.contact-form form button {
+    position: relative;
+    display: block;
+    width: 100%;
+}
+
+.contact-form-image-box {
+    position: absolute;
+    top: -110px;
+    right: -350px;
+    z-index: 1;
+}
+
+.contact-form-image-box img {
+    max-width: none;
+    float: left;
+}
+
+
+/*** 
+=============================================
+    Job Career Brochures Area style
+=============================================
+***/
+
+.job-career-brochures-area {
+    position: relative;
+    display: block;
+}
+
+.job-career-brochures-area .container-fluid {
+    padding: 0;
+}
+
+.job-career-brochures-area .row {
+    margin: 0;
+}
+
+.job-career-brochures-area .row [class*=col-] {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.job-career-brochures-box {
+    position: relative;
+    display: block;
+}
+
+.job-career-brochures-box .img-holder {
+    position: relative;
+    display: block;
+    overflow: hidden;
+}
+
+.job-career-brochures-box .img-holder img {
+    width: 100%;
+}
+
+.job-career-brochures-box .overlay-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.job-career-brochures-box .overlay-content .innner {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.job-career-brochures-box .overlay-content .innner .box {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.job-career-brochures-box .overlay-content .innner .box h1 {
+    color: #ffffff;
+    font-size: 36px;
+    line-height: 44px;
+    font-weight: 700;
+    margin: 0 0 14px;
+}
+
+.job-career-brochures-box .overlay-content .innner .box p {
+    color: #ffffff;
+    margin: 0 0 42px;
+}
+
+.job-career-brochures-box .overlay-content .innner .box a {
+    color: #27282c;
+    padding: 0 50px 0;
+    background: #ffffff;
+}
+
+.job-career-brochures-box .overlay-content .innner .box a:hover {
+    color: #ffffff;
+    background: #f13729;
+}
+
+section.animate {
+    /* -webkit-animation: bounceIn 1s; */
+    animation: bounceIn 1s;
+}
+
+.ctaForm_mainContainer__1x2PH {
+    /* -moz-box-pack: space-evenly; */
+    /* -moz-box-align: center; */
+    /* -webkit-align-items: center; */
+    align-items: center;
+    background: #f7f7f9;
+    /* display: -webkit-flex; */
+    /* display: -moz-box; */
+    display: flex;
+    /* -webkit-justify-content: space-evenly; */
+    justify-content: space-evenly;
+    position: relative;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS {
+    /* display: -webkit-flex; */
+    /* display: -moz-box; */
+    display: flex;
+    /* -webkit-flex-basis: 50%; */
+    flex-basis: 50%;
+    height: 618px;
+    position: relative;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS .ctaForm_top__3QpDU {
+    height: 119px;
+    left: -15px!important;
+    max-width: 100%;
+    top: 70px;
+    width: 708px;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS img {
+    left: 0!important;
+    margin: auto;
+    position: absolute;
+    right: 0!important;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS .ctaForm_back__2PYS1 {
+    height: 440px;
+    /* left: 133px; */
+    max-width: 100%;
+    top: 60px;
+    /* width: 440px; */
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS .ctaForm_text__1RD3N {
+    height: 435px;
+    /* left: 115px; */
+    max-width: 100%;
+    top: 100px;
+    /* width: 484px; */
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_bfc__w9pgG.ctaForm_bfcMobile__3SZxU {
+    margin-top: -40px;
+    text-align: center;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_bfc__w9pgG {
+    /* -webkit-box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%); */
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    width: 351px;
+}
+
+section.fadeIn {
+    /* -webkit-animation: fadeIn .8s; */
+    animation: fadeIn .8s;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 {
+    border-radius: 8px;
+    /* display: -webkit-flex; */
+    /* display: -moz-box; */
+    /* display: flex; */
+    /* display: -webkit-flex!important; */
+    /* display: -moz-box!important; */
+    display: flex!important;
+    width: 100%;
+    /* z-index: 9; */
+}
+
+.bfcForm_registerLoginContainer__lrgC4 {
+    background-color: #fff;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_registerComponent__2qSic {
+    background: #fff;
+    border-radius: 8px;
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+
+.bfcForm_registerComponent__2qSic {
+    padding: 20px;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_bfc__w9pgG.ctaForm_bfcMobile__3SZxU h4 {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 15px;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_frm-grp__1ZfJi {
+    line-height: 1;
+    /* margin-bottom: 18px; */
+    position: relative;
+    text-align: left;
+}
+
+.bfcForm_form-input__2UiIr {
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    /* -webkit-box-shadow: none; */
+    box-shadow: none;
+    color: #474a50!important;
+    display: block;
+    font-size: 13px;
+    font-weight: 500;
+    height: 48px!important;
+    line-height: 1.42857143;
+    padding: 6px 12px;
+    width: 100%;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_frm-grp__1ZfJi svg {
+    fill: #4caf50;
+    display: inline-block;
+    height: 18px;
+    position: absolute;
+    right: 5px;
+    top: 26%;
+    width: 18px;
+}
+
+svg {
+    /* animation: fadeIn 2s; */
+    -webkit-animation: fadeIn 2s;
+}
+
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_frm-grp__1ZfJi {
+    line-height: 1;
+    /* margin-bottom: 18px; */
+    position: relative;
+    text-align: left;
+}
+
+.bfcForm_registerComponent__2qSic .bfcForm_btn-block__q815q {
+    padding-top: 10px;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_mainBtn__1tXif {
+    background-color: #e71c24!important;
+    border: 1px solid;
+    /* border-radius: 2px; */
+    border-radius: 6px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    /* font-size: 14px; */
+    font-weight: 600;
+    letter-spacing: -.12px;
+    line-height: 22px;
+    margin-bottom: 0;
+    /* padding: 10px 20px; */
+    text-align: center;
+    text-transform: uppercase;
+    touch-action: manipulation;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.bfcForm_registerComponent__2qSic .bfcForm_term-condition-line__qpig9 {
+    margin-top: 6px;
+}
+
+.bfcForm_term-condition-line__qpig9 {
+    color: #000;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 15px;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+.bfcForm_term-condition-link__3u0dN {
+    color: #e71c24;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_registerComponent__2qSic {
+    background: #fff;
+    border-radius: 8px;
+    /* display: inline-block; */
+    height: 100%;
+    width: 100%;
+}
+
+.bfcForm_registerComponent__2qSic {
+    padding: 20px;
+}
+
+.bfcForm_BfcFormWrapper__168cm .bfcForm_closeProceedAnyway__JVlr8 {
+    margin: -17px -20px;
+}
+
+.bfcForm_closeProceedAnyway__JVlr8 {
+    color: #8e9194;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 700;
+    /* margin: 0; */
+    padding: 0 10px;
+    text-align: right;
+}
+
+.bfcForm_proceedAnywayWrapper__3xDgu {
+    align-items: center;
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    margin: 5% 0;
+    text-align: center;
+}
+
+.bfcForm_proceedAnywayWrapper__3xDgu * {
+    padding: 15px;
+}
+
+@media (min-width: 700px) and (max-width: 1366px) {
+    .bfcForm_registerComponent__2qSic {
+        padding-top: 40px;
+    }
+    .bfcForm_frm-grp__1ZfJi {
+        margin-bottom: 25px!important;
+    }
+    .bfcForm_frm-grp__1ZfJi {
+        margin-bottom: 25px!important;
+    }
+    .bfcForm_registerComponent__2qSic {
+        padding-top: 40px;
+    }
+}
+
+@media(max-width:700px) {
+    #bfcContainer {
+        margin-left: -90px;
+    }
+    .single-contact-address-box {
+        margin-left: -90px;
+        margin-top: 30px;
+    }
+}

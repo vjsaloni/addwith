@@ -1,0 +1,4808 @@
+/* @media (max-width: 1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc {
+        min-height: 600px;
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO {
+        display: flex;
+        justify-content: center;
+        left: 0;
+        top: 65px;
+        width: 400px;
+        z-index: 1;
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIBannerBfc__34UW5 {
+        display: none!important;
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi {
+        display: none;
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 1300px) and (max-width: 1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH.home-interior-design_HIBannerTitleCTA__Idxdm {
+        margin: auto;
+        padding: 60px 0 30px!important;
+        width: 365px;
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH .home-interior-design_HIBTitle__3S3Df {
+        font-size: 32px!important;
+        line-height: 32px;
+        /* max-width: 100%; *
+        text-align: center;
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO img {
+        width: 400px;
+    }
+}
+
+@media (max-width: 1300px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH .home-interior-design_HIBTitle__3S3Df {
+        max-width: 100%!important;
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu {
+        /* -webkit-flex-basis: 50%; *
+        flex-basis: 50%;
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO img {
+        height: auto;
+        /* width: 450px; *
+    }
+}
+
+@media (max-width: 1200px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIBannerBfc__34UW5 {
+        margin-right: 20px!important;
+    }
+}
+
+@media (min-width: 700px) and (max-width: 1366px) {
+    .bfcForm_registerComponent__2qSic {
+        padding-top: 40px;
+    }
+    .bfcForm_registerComponent__2qSic {
+        padding-top: 40px;
+    }
+    .bfcForm_frm-grp__1ZfJi {
+        margin-bottom: 25px!important;
+    }
+    .bfcForm_frm-grp__1ZfJi {
+        margin-bottom: 25px!important;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3 {
+        padding: 65px 20px 45px;
+        text-align: center;
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3 .home-interior-design_HIcommonBFB_btn__2XCio {
+        height: 54px;
+        max-width: 90%;
+        padding: 18px 14px;
+        width: 420px;
+    }
+}
+
+@media (min-width: 760px) and (max-width: 1400px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3 .home-interior-design_HIcommonBFB_btn__2XCio {
+        border-radius: 5px;
+        /* width: 400px; *
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB {
+    background: #fff;
+    position: relative;
+    z-index: 13;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn {
+    /* background-position: 50%; */
+
+
+/* background-repeat: no-repeat; */
+
+
+/* background-size: cover; *
+    min-height: 650px;
+    overflow: hidden;
+    /* position: relative; *
+    width: 100%;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB:before {
+    position: relative;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn:before {
+    background: linear-gradient(rgba(0, 0, 0, .5), transparent, transparent);
+    bottom: 0;
+    content: "";
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l.home-interior-design_BannerBgShadeCTA__3pnKm {
+    min-height: 600px;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi {
+    position: absolute;
+    z-index: 1;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_kitchen__1U8Av {
+    left: -14px;
+    top: -45px;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_kitchen__1U8Av svg {
+    height: 259px;
+    width: 259px;
+}
+
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+    -webkit-animation: fadeIn 2s;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_bedroom__2Hq8i {
+    left: 1000px;
+    top: -35px;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_bedroom__2Hq8i svg {
+    height: 169px;
+    width: 169px;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_bathroom__2Tozz {
+    left: 210px;
+    top: 420px;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_bathroom__2Tozz svg {
+    height: 123px;
+    width: 123px;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 {
+    align-items: center;
+    background: #f2ebe8;
+    display: flex!important;
+    padding-left: 0;
+    position: relative;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 {
+    color: #000;
+    height: auto;
+    justify-content: space-between;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH.home-interior-design_HIBannerTitleCTA__Idxdm {
+    /* -webkit-flex-basis: 30%; *
+    flex-basis: 30%;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH {
+    max-width: 100%;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH .home-interior-design_HIBTitle__3S3Df {
+    color: #161d4f;
+    /* font-size: 52px; *
+    font-weight: 700;
+    /* line-height: 52px; *
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu {
+    /* -webkit-flex-basis: 40%; */
+
+
+/* flex-basis: 40%; *
+    max-width: 570px;
+    min-height: 400px;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB {
+    /* -webkit-flex-basis: 50%; */
+
+
+/* flex-basis: 50%; */
+
+
+/* min-height: 559px; *
+    position: relative;
+    width: 100%;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO {
+    align-items: end;
+    height: 531px;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO {
+    margin: auto;
+    position: absolute;
+    right: 0;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img1__1lsfZ {
+    /* -webkit-animation-delay: 0s; *
+    animation-delay: 0s;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img1__1lsfZ {
+    animation-duration: 9s;
+    /* -webkit-animation-iteration-count: infinite; *
+    animation-iteration-count: infinite;
+    animation-name: home-interior-design_fade__2u82I;
+    background-repeat: no-repeat;
+    /* height: 545px; *
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    /* width: 591px; *
+    z-index: -18;
+}
+
+img {
+    -webkit-animation: fadeIn 2s;
+    border-style: none;
+    vertical-align: middle;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerBfc__34UW5 {
+    /* -webkit-align-self: center; *
+    align-self: center;
+    /* background-color: #fff; *
+    background-image: none;
+    border-radius: 8px;
+    height: auto;
+    margin-bottom: 5%;
+    /* margin-right: 40px; *
+    margin-top: 5%;
+    width: 370px;
+    z-index: 100;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIBannerBfc__34UW5 {
+    background-color: transparent!important;
+    /* display: block!important; */
+
+
+/* -webkit-flex-basis: 30%; *
+    flex-basis: 30%;
+    max-width: 352px;
+    min-height: 451px;
+}
+
+section.fadeIn {
+    /* -webkit-animation: fadeIn .8s; *
+    animation: fadeIn .8s;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 {
+    border-radius: 8px;
+    display: flex!important;
+    width: 100%;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 {
+    background-color: #fff;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_registerComponent__2qSic {
+    background: #fff;
+    border-radius: 8px;
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+
+.bfcForm_registerComponent__2qSic {
+    padding: 20px;
+}
+
+.bfcForm_cityLandingBfc__2QBnl .bfcForm_bfcTitle1__3cH7a {
+    font-size: 24px;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_frm-grp__1ZfJi {
+    line-height: 1;
+    /* margin-bottom: 18px; *
+    position: relative;
+    text-align: left;
+}
+
+.bfcForm_cityLandingBfc__2QBnl .bfcForm_frm-grp__1ZfJi .bfcForm_form-input__2UiIr {
+    border: none!important;
+    border-bottom: 1px solid #cacaca!important;
+    border-radius: 0;
+    font-size: 14px;
+    padding-left: 0!important;
+}
+
+.bfcForm_form-input__2UiIr {
+    background-color: #fff;
+    background-image: none;
+    box-shadow: none;
+    color: #474a50!important;
+    display: block;
+    /* font-size: 13px; *
+    font-weight: 500;
+    height: 48px!important;
+    line-height: 1.42857143;
+    padding: 6px 12px;
+    width: 100%;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_frm-grp__1ZfJi svg {
+    fill: #4caf50;
+    /* display: inline-block; *
+    height: 18px;
+    position: absolute;
+    right: 5px;
+    top: 26%;
+    width: 18px;
+}
+
+svg {
+    -webkit-animation: fadeIn 2s;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_frm-grp__1ZfJi {
+    line-height: 1;
+    /* margin-bottom: 18px; *
+    position: relative;
+    text-align: left;
+}
+
+.bfcForm_registerComponent__2qSic .bfcForm_btn-block__q815q {
+    padding-top: 10px;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_mainBtn__1tXif {
+    background-color: #e71c24!important;
+    border: 1px solid;
+    /* border-radius: 2px; *
+    border-radius: 6px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    /* font-size: 14px; *
+    font-weight: 600;
+    letter-spacing: -.12px;
+    line-height: 22px;
+    margin-bottom: 0;
+    /* padding: 10px 20px; *
+    text-align: center;
+    text-transform: uppercase;
+    touch-action: manipulation;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.bfcForm_registerComponent__2qSic .bfcForm_term-condition-line__qpig9 {
+    margin-top: 6px;
+}
+
+.bfcForm_term-condition-line__qpig9 {
+    color: #000;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 15px;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+.bfcForm_term-condition-link__3u0dN {
+    color: #e71c24;
+}
+
+.bfcForm_loginComponent__2cMKb,
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_registerComponent__2qSic {
+    background: #fff;
+    border-radius: 8px;
+    /* display: inline-block; *
+    height: 100%;
+    width: 100%;
+}
+
+.bfcForm_registerComponent__2qSic {
+    padding: 20px;
+}
+
+.bfcForm_BfcFormWrapper__168cm .bfcForm_closeProceedAnyway__JVlr8 {
+    margin: -17px -20px;
+}
+
+.bfcForm_closeProceedAnyway__JVlr8 {
+    color: #8e9194;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 700;
+    /* margin: 0; *
+    padding: 0 10px;
+    text-align: right;
+}
+
+.bfcForm_proceedAnywayWrapper__3xDgu {
+    align-items: center;
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    margin: 5% 0;
+    text-align: center;
+}
+
+.bfcForm_proceedAnywayWrapper__3xDgu * {
+    padding: 15px;
+}
+
+.bfcForm_bfcBtn__2mCXH {
+    background-color: #e71c24!important;
+    border-color: #e71c24;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 14px!important;
+    /* font-size: 14px; *
+    font-weight: 500;
+    line-height: 1;
+    margin-bottom: 0;
+    /* padding-bottom: 14px;
+    padding-top: 14px; *
+    padding: 10px 13px!important;
+    width: 100%;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3 {
+    display: block;
+    /* padding: 52px 15px 45px; *
+    position: relative;
+    z-index: 2;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3 .home-interior-design_HIcommonBFB_btn__2XCio {
+    border: 1px solid transparent;
+    /* border-radius: 8px; *
+    font-weight: 700;
+    line-height: 19px;
+    /* padding: 15px 14px; *
+    text-transform: uppercase;
+    /* width: 100%; *
+} */
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_modalPopUp__1stN3 {
+    background-color: #313131;
+    bottom: 0;
+    left: 0;
+    overflow: scroll;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 999
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_modalPopUp__1stN3 .home-interior-design_closePlpPopup__3XK14 {
+    width: 10px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_MobileBfcPopUp__3YWa9 {
+    background-color: rgba(0, 0, 0, .6);
+    display: block;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999999
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc {
+    min-height: 650px
+}
+
+@media(max-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc {
+        min-height: 600px
+    }
+}
+
+@media(max-width:1100px) and (max-width:600px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc {
+        min-height: 400px
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc.home-interior-design_HomeInteriorBannerSectionTablet__2DoUB {
+    min-height: 500px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn {
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 650px;
+    overflow: hidden;
+    position: relative;
+    width: 100%
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_img-main-banner__3HGzM {
+    z-index: -1
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn:before {
+    background: -webkit-linear-gradient(rgba(0, 0, 0, .5), transparent, transparent);
+    background: -moz-linear-gradient(rgba(0, 0, 0, .5), transparent, transparent);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), color-stop(transparent), to(transparent));
+    background: linear-gradient(rgba(0, 0, 0, .5), transparent, transparent);
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB {
+    background: #fff;
+    position: relative;
+    z-index: 13
+}
+
+@media(min-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB {
+        min-height: 600px !important
+    }
+}
+
+@media(max-width:900px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB {
+        min-height: 820px
+    }
+}
+
+@media(max-width:900px) and (max-width:600px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB {
+        min-height: 500px !important
+    }
+}
+
+@media(min-width:600px) and (max-width:1100px) and (min-height:850px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB {
+        min-height: 850px !important
+    }
+}
+
+@media(min-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB.home-interior-design_BannerContainerExpCTA__2_kNj {
+        min-height: 700px !important
+    }
+}
+
+@media(min-width:600px) and (max-width:1120px) and (min-height:850px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB.home-interior-design_BannerContainerExpCTA__2_kNj {
+        min-height: 800px !important
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l {
+    min-height: 600px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l.home-interior-design_BannerBgShadeMobileExp__2nn3g {
+    padding-top: 58px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l.home-interior-design_BannerBgShadeCTA__3pnKm {
+    min-height: 600px
+}
+
+@media(max-width:600px) and (min-height:350px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l,
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l.home-interior-design_BannerBgShadeCTA__3pnKm {
+        min-height: 500px
+    }
+}
+
+@media(min-width:830px) and (max-width:1100px) and (min-height:300px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l {
+        min-height: 825px
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi {
+    position: absolute;
+    z-index: 1
+}
+
+@media(max-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi {
+        display: none
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_kitchen__1U8Av {
+    left: 0;
+    top: 63px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_kitchen__1U8Av svg {
+    height: 440px;
+    width: 450px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bedroom__2Hq8i {
+    left: 400px;
+    top: 25px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bedroom__2Hq8i svg {
+    height: 193px;
+    width: 193px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bathroom__2Tozz {
+    left: 465px;
+    top: 325px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bathroom__2Tozz svg {
+    height: 109px;
+    width: 110px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_kitchen__1U8Av {
+    left: -14px;
+    top: -45px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_kitchen__1U8Av img,
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_kitchen__1U8Av svg {
+    height: 259px;
+    width: 259px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_bedroom__2Hq8i {
+    left: 1000px;
+    top: -35px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_bedroom__2Hq8i svg {
+    height: 169px;
+    width: 169px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_bathroom__2Tozz {
+    left: 210px;
+    top: 420px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_bathroom__2Tozz svg {
+    height: 123px;
+    width: 123px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 {
+    -moz-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    background: #f2ebe8;
+    display: -webkit-flex !important;
+    display: -moz-box !important;
+    display: flex !important;
+    padding-left: 0;
+    position: relative
+}
+
+@media(max-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 {
+        -moz-box-orient: vertical;
+        -moz-box-direction: normal;
+        -webkit-flex-direction: column;
+        flex-direction: column
+    }
+}
+
+@media(max-width:1100px) and (max-width:850px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 {
+        padding-left: 15px
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH {
+    -webkit-flex-basis: 50%;
+    flex-basis: 50%;
+    max-width: 100%;
+    padding-left: 64px;
+    padding-top: 0;
+    width: 600px
+}
+
+@media(max-width:1300px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH .home-interior-design_HIBTitle__3S3Df {
+        max-width: 100% !important
+    }
+}
+
+@media(max-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH {
+        margin: auto;
+        padding: 60px 0 30px !important;
+        width: 365px
+    }
+}
+
+@media(max-width:1100px) and (max-width:600px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH {
+        padding-top: 30px !important;
+        width: 267px
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH.home-interior-design_HIBannerTitleCTA__Idxdm {
+    -webkit-flex-basis: 30%;
+    flex-basis: 30%
+}
+
+@media(max-width:1300px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH.home-interior-design_HIBannerTitleCTA__Idxdm {
+        padding-left: 50px
+    }
+}
+
+@media(max-width:1300px) and (max-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH.home-interior-design_HIBannerTitleCTA__Idxdm {
+        margin: auto;
+        padding: 60px 0 30px !important;
+        width: 365px
+    }
+}
+
+@media(max-width:1300px) and (max-width:1100px) and (max-width:600px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH.home-interior-design_HIBannerTitleCTA__Idxdm {
+        padding-top: 20px !important;
+        width: 267px
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH .home-interior-design_HIBTitle__3S3Df {
+    color: #161d4f;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 52px
+}
+
+@media(max-width:1300px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH .home-interior-design_HIBTitle__3S3Df {
+        font-size: 42px;
+        max-width: 280px
+    }
+}
+
+@media(max-width:1300px) and (max-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH .home-interior-design_HIBTitle__3S3Df {
+        font-size: 32px !important;
+        line-height: 32px;
+        max-width: 100%;
+        text-align: center
+    }
+}
+
+@media(max-width:1300px) and (max-width:1100px) and (max-width:600px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH .home-interior-design_HIBTitle__3S3Df {
+        font-size: 24px !important;
+        line-height: 32px
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB {
+    -webkit-flex-basis: 50%;
+    flex-basis: 50%;
+    min-height: 559px;
+    position: relative;
+    width: 100%
+}
+
+@media(max-width:1000px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB {
+        min-height: 600px
+    }
+}
+
+@media(max-width:1000px) and (max-width:600px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB {
+        min-height: 300px
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO {
+    height: 545px;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    top: 45px;
+    width: 591px;
+    z-index: 1
+}
+
+@media(max-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO {
+        -moz-box-pack: center;
+        display: -webkit-flex;
+        display: -moz-box;
+        display: flex;
+        -webkit-justify-content: center;
+        justify-content: center;
+        left: 0;
+        top: 65px;
+        z-index: 1
+    }
+}
+
+@media(max-width:1100px) and (max-width:600px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO {
+        bottom: 0;
+        height: 280px;
+        margin: auto;
+        max-width: 100%;
+        top: -10px;
+        width: 353.12px
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img1__1lsfZ,
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img2__tKCPd,
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img3__145qg {
+    -webkit-animation-duration: 9s;
+    animation-duration: 9s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation-name: home-interior-design_fade__2u82I;
+    animation-name: home-interior-design_fade__2u82I;
+    background-repeat: no-repeat;
+    height: 545px;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    width: 591px;
+    z-index: -18
+}
+
+@media(max-width:1200px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img1__1lsfZ,
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img2__tKCPd,
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img3__145qg {
+        width: 550px
+    }
+}
+
+@media(max-width:1200px) and (max-width:1000px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img1__1lsfZ,
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img2__tKCPd,
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img3__145qg {
+        height: 570px;
+        width: 591px
+    }
+}
+
+@media(max-width:1200px) and (max-width:1000px) and (max-width:600px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img1__1lsfZ,
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img2__tKCPd,
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img3__145qg {
+        height: 315px;
+        max-width: 100%;
+        width: 353.12px
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img1__1lsfZ {
+    -webkit-animation-delay: 0s;
+    animation-delay: 0s
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img2__tKCPd {
+    -webkit-animation-delay: 3s;
+    animation-delay: 3s
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img3__145qg {
+    -webkit-animation-delay: 6s;
+    animation-delay: 6s
+}
+
+@-webkit-keyframes home-interior-design_fade__2u82I {
+    00.00% {
+        opacity: 0;
+        z-index: -10
+    }
+    06.25% {
+        opacity: 1;
+        z-index: -10
+    }
+    31.25% {
+        opacity: 1;
+        z-index: -12
+    }
+    37.50% {
+        opacity: 0;
+        z-index: -14
+    }
+    100.0% {
+        opacity: 0;
+        z-index: -16
+    }
+}
+
+@keyframes home-interior-design_fade__2u82I {
+    00.00% {
+        opacity: 0;
+        z-index: -10
+    }
+    06.25% {
+        opacity: 1;
+        z-index: -10
+    }
+    31.25% {
+        opacity: 1;
+        z-index: -12
+    }
+    37.50% {
+        opacity: 0;
+        z-index: -14
+    }
+    100.0% {
+        opacity: 0;
+        z-index: -16
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu {
+    -webkit-flex-basis: 40%;
+    flex-basis: 40%;
+    max-width: 570px;
+    min-height: 400px
+}
+
+@media(min-width:1600px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu {
+        min-height: 500px
+    }
+}
+
+@media(max-width:1300px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu {
+        -webkit-flex-basis: 50%;
+        flex-basis: 50%
+    }
+}
+
+@media(max-width:1300px) and (max-width:1000px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu {
+        -webkit-flex-basis: 40%;
+        flex-basis: 40%;
+        min-height: 427px
+    }
+}
+
+@media(max-width:1300px) and (max-width:1000px) and (max-width:600px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu {
+        min-height: 290px
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO {
+    -moz-box-align: end;
+    -moz-box-pack: center;
+    -webkit-align-items: end;
+    align-items: end;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: flex;
+    height: 531px;
+    -webkit-justify-content: center;
+    justify-content: center;
+    left: 0;
+    top: 85px;
+    width: 570px;
+    z-index: 101
+}
+
+@media(min-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO {
+        top: 94px
+    }
+}
+
+@media(min-width:1100px) and (min-width:1300px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO {
+        top: 30px
+    }
+}
+
+@media(min-width:1100px) and (min-width:1300px) and (min-width:1400px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO {
+        top: 0
+    }
+}
+
+@media(min-width:1100px) and (min-width:1300px) and (min-width:1400px) and (min-width:1600px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO {
+        top: 60px
+    }
+}
+
+@media(max-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO {
+        -moz-box-pack: center;
+        display: -webkit-flex;
+        display: -moz-box;
+        display: flex;
+        -webkit-justify-content: center;
+        justify-content: center;
+        left: 0;
+        top: 65px;
+        width: 400px;
+        z-index: 1
+    }
+}
+
+@media(max-width:1100px) and (max-width:600px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO {
+        height: 345px;
+        margin: auto;
+        max-width: 100%;
+        top: 40px;
+        width: 353.12px
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO img {
+    height: 531px;
+    width: 570px
+}
+
+@media(max-width:1300px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO img {
+        height: auto;
+        width: 450px
+    }
+}
+
+@media(max-width:1300px) and (max-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO img {
+        width: 400px
+    }
+}
+
+@media(max-width:1300px) and (max-width:1100px) and (max-width:600px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO img {
+        height: 315px;
+        max-width: 100%;
+        width: 353.12px
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIBannerBfc__34UW5 {
+    background-color: transparent !important;
+    display: block !important;
+    -webkit-flex-basis: 30%;
+    flex-basis: 30%;
+    max-width: 352px;
+    min-height: 451px
+}
+
+@media(max-width:1200px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIBannerBfc__34UW5 {
+        margin-right: 20px !important
+    }
+}
+
+@media(max-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIBannerBfc__34UW5 {
+        display: none !important
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HINudgeCard__3gWM9 {
+    display: block !important;
+    -webkit-flex-basis: 17%;
+    flex-basis: 17%;
+    -webkit-flex-basis: 30%;
+    flex-basis: 30%;
+    height: 100%;
+    min-height: 600px;
+    top: 0 !important
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HINudgeCard__3gWM9>div>div {
+    right: 60px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    transform: translateY(-50%)
+}
+
+@media(max-width:1200px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HINudgeCard__3gWM9>div>div {
+        right: 30px
+    }
+}
+
+@media(max-width:1200px) and (max-width:900px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HINudgeCard__3gWM9>div>div {
+        right: 0
+    }
+}
+
+@media(max-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HINudgeCard__3gWM9 {
+        display: none !important
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3 {
+    display: block;
+    padding: 52px 15px 45px;
+    position: relative;
+    z-index: 2
+}
+
+@media(min-width:1000px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3 {
+        padding: 85px 15px 45px;
+        text-align: center
+    }
+}
+
+@media(min-width:1000px) and (min-width:1400px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3 {
+        display: none
+    }
+}
+
+@media(min-width:1000px) and (min-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3.home-interior-design_HIMobileBannerBfcDesk__3hFy5 {
+        display: none
+    }
+}
+
+@media(min-width:600px) and (max-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3 {
+        padding: 65px 20px 45px;
+        text-align: center
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3 .home-interior-design_HIcommonBFB_btn__2XCio {
+    border: 1px solid transparent;
+    border-radius: 8px;
+    font-weight: 700;
+    line-height: 19px;
+    padding: 15px 14px;
+    text-transform: uppercase;
+    width: 100%
+}
+
+@media(min-width:760px) and (max-width:1400px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3 .home-interior-design_HIcommonBFB_btn__2XCio {
+        border-radius: 5px;
+        width: 400px
+    }
+}
+
+@media(min-width:600px) and (max-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3 .home-interior-design_HIcommonBFB_btn__2XCio {
+        height: 54px;
+        max-width: 90%;
+        padding: 18px 14px;
+        width: 420px
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB:before {
+    position: relative
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerTablet__2nc6S {
+    min-height: 100vh;
+    width: 100%
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerTablet__2nc6S .home-interior-design_BannerBgShade__2PA4l {
+    position: relative
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerTablet__2nc6S .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi {
+    display: none !important
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerTablet__2nc6S .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 {
+    display: block;
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerTablet__2nc6S .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH {
+    padding-top: clamp(80px, 10vh, 200px);
+    text-align: center
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerTablet__2nc6S .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH .home-interior-design_HIBTitle__3S3Df {
+    font-size: 24px;
+    margin-bottom: 0
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerTablet__2nc6S .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH .home-interior-design_HIBSUBTitle__3bOKF {
+    font-size: 16px;
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    padding-top: 10px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerTablet__2nc6S .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerBfc__34UW5,
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerTablet__2nc6S .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HINudgeCard__3gWM9 {
+    display: none
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerTablet__2nc6S .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIMobileBannerBfc__33dy3 {
+    display: block;
+    padding: 2px 6px 0
+}
+
+@media(min-width:768px) and (max-width:1400px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerTablet__2nc6S .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIMobileBannerBfc__33dy3 {
+        text-align: center
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerTablet__2nc6S .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIMobileBannerBfc__33dy3 .home-interior-design_HIcommonBFB_btn__2XCio {
+    border: 1px solid transparent;
+    border-radius: 8px;
+    font-weight: 700;
+    line-height: 19px;
+    padding: 15px 14px;
+    text-transform: uppercase;
+    width: 100%
+}
+
+@media(min-width:760px) and (max-width:1400px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerTablet__2nc6S .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIMobileBannerBfc__33dy3 .home-interior-design_HIcommonBFB_btn__2XCio {
+        border-radius: 5px;
+        width: auto
+    }
+}
+
+@media(min-width:600px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerTablet__2nc6S .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImageCTA__gSvtu {
+        -webkit-flex-basis: 50% !important;
+        flex-basis: 50% !important;
+        max-width: 700px !important;
+        min-height: 438px !important
+    }
+}
+
+@media(min-width:600px) and (min-width:1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerTablet__2nc6S .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImageCTA__gSvtu {
+        -webkit-flex-basis: 50% !important;
+        flex-basis: 50% !important;
+        max-width: 700px !important;
+        min-height: 515px !important
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l.home-interior-design_BannerBgShadeMobile__2KGS8 {
+    padding-top: 30px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 {
+    -moz-box-pack: justify;
+    color: #000;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: flex;
+    height: auto;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    padding-left: 64px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH {
+    padding-left: 15px;
+    padding-top: 70px;
+    width: 100%
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH .home-interior-design_HIBTitle__3S3Df {
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.4
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH .home-interior-design_HIBSUBTitle__3bOKF {
+    color: #000;
+    font-size: 20px;
+    width: 100%
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerBfc__34UW5 {
+    -webkit-align-self: center;
+    align-self: center;
+    background-color: #fff;
+    background-image: none;
+    border-radius: 8px;
+    height: auto;
+    margin-bottom: 5%;
+    margin-right: 40px;
+    margin-top: 5%;
+    width: 370px;
+    z-index: 100
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HINudgeCard__3gWM9 {
+    position: relative;
+    top: 40px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIMobileBannerBfc__33dy3 {
+    display: none
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HISliderSection__3dxGv {
+    background-color: #f0f0f0;
+    height: 268px;
+    overflow-x: hidden;
+    padding: 20px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HISliderSection__3dxGv.home-interior-design_HISliderSectionTablet__13PzJ {
+    background-color: #fff;
+    padding: 10px 25px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_bfcButton__1xHgm {
+    border-radius: 0;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    bottom: 0;
+    -webkit-box-shadow: 0 -4px 6px #824043;
+    box-shadow: 0 -4px 6px #824043;
+    font-size: 16px;
+    height: 48px;
+    position: fixed;
+    width: 100%;
+    z-index: 12
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIWhyHomeLane__TnhRL {
+    margin-bottom: 50px;
+    text-align: center
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIWhyHomeLane__TnhRL.home-interior-design_margin__33RP3 {
+    margin: 35px 0 20px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIWhyHomeLane__TnhRL .home-interior-design_HIKnowMoreButton__11CnI {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 10px 30px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIWhyHomeLane__TnhRL .home-interior-design_HIKnowMoreButton__11CnI a {
+    color: #fff
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_categorySliders__9pZc6 {
+    margin-top: 50px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_Testimonial__3XPFz {
+    background: #f4fcff;
+    margin: 0 auto;
+    min-height: 100px;
+    padding: 64px
+}
+
+@media(max-width:768px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_Testimonial__3XPFz {
+        padding: 35px 15px;
+        width: 100%
+    }
+}
+
+@media(max-width:768px) and (min-width:700px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_Testimonial__3XPFz {
+        padding-bottom: 10px
+    }
+}
+
+@media(max-width:768px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_Testimonial__3XPFz .home-interior-design_Testimonial__3XPFz .home-interior-design_head__1PnLk {
+        text-align: center !important
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t {
+    margin-bottom: 50px;
+    margin-left: 64px;
+    margin-right: 64px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t.home-interior-design_HIKitchenSliderSectionTablet__3kVQ5 {
+    margin: 0 30px 50px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenTitle__1wQqZ .home-interior-design_HIKitchenHeading__3hebZ {
+    -moz-box-pack: justify;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenTitle__1wQqZ .home-interior-design_HIKitchenHeading__3hebZ h2 {
+    color: #222;
+    font-size: 22px;
+    line-height: 29px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenTitle__1wQqZ .home-interior-design_HIKitchenHeading__3hebZ .home-interior-design_seeAll__NkMX5 {
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #ef4626;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.42857143;
+    padding: 6px 0 6px 12px;
+    text-align: center;
+    touch-action: manipulation;
+    vertical-align: middle;
+    white-space: nowrap
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenTitle__1wQqZ p {
+    color: #9a9a9a;
+    font-size: 15px;
+    line-height: 22px;
+    padding-top: 20px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenTitle__1wQqZ .home-interior-design_mobileDesc__WtqVv {
+    display: none
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenDesignDiv__1Coe6 {
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 20px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_completeHome__1xiLM {
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    text-align: center
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv {
+    padding-bottom: 50px;
+    padding-left: 64px;
+    padding-right: 64px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv.home-interior-design_AboutHIDesignsTablet__18Emt {
+    padding: 0 20px 50px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv.home-interior-design_AboutHIDesignsTablet__18Emt h2 {
+    text-align: center
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv.home-interior-design_borderPadding__pJxGd {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 0
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv h2 {
+    color: #222;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    padding-left: 45px;
+    padding-top: 50px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv p {
+    color: #333;
+    font-size: 13px;
+    padding: 20px 45px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv p a {
+    color: red;
+    text-decoration: underline
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv p a:hover {
+    color: #333
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv .home-interior-design_mobileDesc__WtqVv {
+    display: none
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIBFCSection__Ub2wa {
+    -moz-box-pack: justify;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    padding-bottom: 40px;
+    padding-left: 64px;
+    padding-right: 64px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIBFCSection__Ub2wa .home-interior-design_HIBFCContent__1nuHd {
+    margin-left: 65px;
+    margin-top: 30px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIBFCSection__Ub2wa .home-interior-design_HIBFCContent__1nuHd h3 {
+    color: #222;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIBFCSection__Ub2wa .home-interior-design_HIBFCContent__1nuHd p {
+    color: #222;
+    font-size: 16px;
+    font-weight: 700
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIBFCSection__Ub2wa.home-interior-design_HIBFCSection_tablet__1ikU7 {
+    -moz-box-pack: space-evenly;
+    -webkit-justify-content: space-evenly;
+    justify-content: space-evenly
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIBFCSection__Ub2wa.home-interior-design_HIBFCSection_tablet__1ikU7 .home-interior-design_HIBFCContent__1nuHd {
+    margin-left: 25px
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIBFCSection__Ub2wa .home-interior-design_HIBFCForm__11N8k {
+    border-radius: 8px;
+    -webkit-box-shadow: 0 0 16px 0 rgba(0, 0, 0, .16);
+    box-shadow: 0 0 16px 0 rgba(0, 0, 0, .16);
+    height: auto;
+    margin-right: 55px;
+    width: 370px
+}
+
+@media(min-width:700px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_popup-div__3Y4Bl {
+        left: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        position: absolute;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        width: 350px
+    }
+}
+
+@media(max-width:768px) and (max-width:850px) {
+    .home-interior-design_HomeInteriorPage__1DVuX {
+        overflow-x: hidden;
+        width: 100%
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn {
+        min-height: 100vh;
+        position: relative;
+        width: 100%
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l {
+        position: relative
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 {
+        color: #000;
+        display: block;
+        padding-left: 15px;
+        padding-right: 15px
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH {
+        color: #000;
+        padding-left: 0;
+        padding-top: 50px;
+        text-align: center;
+        width: 100%
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH .home-interior-design_HIBTitle__3S3Df {
+        font-size: 24px;
+        font-weight: 600;
+        margin-bottom: 0
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH .home-interior-design_HIBSUBTitle__3bOKF {
+        color: #000;
+        font-size: 16px;
+        font-weight: 500;
+        margin-bottom: 0;
+        margin-right: auto;
+        padding-bottom: 20px;
+        padding-top: 10px;
+        width: 100%
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerBfc__34UW5,
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HINudgeCard__3gWM9 {
+        display: none
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIMobileBannerBfc__33dy3 {
+        display: block;
+        padding-left: 6px;
+        padding-right: 6px;
+        padding-top: 2px;
+        text-align: center
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIMobileBannerBfc__33dy3 .home-interior-design_HIcommonBFB_btn__2XCio {
+        background-color: #e71c24;
+        border: 1px solid transparent;
+        border-radius: 8px;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 19px;
+        padding: 15px 14px;
+        text-align: center;
+        text-transform: uppercase;
+        width: 100%
+    }
+}
+
+@media(max-width:768px) and (max-width:850px) and (max-width:375px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIMobileBannerBfc__33dy3 .home-interior-design_HIcommonBFB_btn__2XCio {
+        font-size: 13px
+    }
+}
+
+@media(max-width:768px) and (max-width:850px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HISliderSection__3dxGv {
+        background-color: #fff;
+        height: 268px;
+        padding-bottom: 0;
+        padding-top: 0
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIWhyHomeLane__TnhRL {
+        margin-bottom: 50px;
+        margin-top: -45px;
+        text-align: center
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t {
+        margin-bottom: 50px;
+        margin-left: 0;
+        margin-right: 0
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenTitle__1wQqZ {
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 15px;
+        padding-right: 15px
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenTitle__1wQqZ .home-interior-design_HIKitchenHeading__3hebZ {
+        -moz-box-pack: justify;
+        display: -webkit-flex;
+        display: -moz-box;
+        display: flex;
+        -webkit-justify-content: space-between;
+        justify-content: space-between
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenTitle__1wQqZ .home-interior-design_HIKitchenHeading__3hebZ h2 {
+        color: #333;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 29px
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenTitle__1wQqZ .home-interior-design_DeskDesc__1eGIi {
+        display: none
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenTitle__1wQqZ .home-interior-design_mobileDesc__WtqVv {
+        display: inline
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenTitle__1wQqZ .home-interior-design_mobileDesc__WtqVv .home-interior-design_initialContent__2FyHY {
+        color: #333;
+        font-size: 12px;
+        line-height: 10px;
+        padding-top: 0
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenTitle__1wQqZ .home-interior-design_mobileDesc__WtqVv .home-interior-design_Switch__2HD6P {
+        color: red;
+        font-size: 13px;
+        line-height: 15px
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenTitle__1wQqZ .home-interior-design_mobileDesc__WtqVv .home-interior-design_extraContent__2wRMi {
+        color: #333;
+        display: none;
+        font-size: 12px;
+        line-height: 15px;
+        padding-bottom: -5px;
+        padding-top: 0
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenTitle__1wQqZ .home-interior-design_mobileDesc__WtqVv .home-interior-design_extraContent__2wRMi .home-interior-design_extraContentLink__3zIcP {
+        color: red !important;
+        text-decoration: underline
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenTitle__1wQqZ .home-interior-design_mobileDesc__WtqVv .home-interior-design_extraContent__2wRMi .home-interior-design_Switch__2HD6P {
+        color: red
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenTitle__1wQqZ p {
+        color: #333;
+        font-size: 13px;
+        line-height: 22px;
+        padding-top: 20px
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIKitchenSliderSection__2EF5t .home-interior-design_HIKitchenDesignDiv__1Coe6 {
+        margin-left: 0;
+        margin-right: 0;
+        overflow-x: hidden;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 20px;
+        width: 100%
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_completeHome__1xiLM {
+        margin-bottom: 0;
+        padding-bottom: 40px;
+        text-align: center
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv {
+        padding: 0 20px
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv h2 {
+        color: #222;
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 29px;
+        padding-left: 0;
+        padding-top: 0;
+        text-align: center
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv p {
+        padding-left: 10px;
+        padding-right: 10px
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv .home-interior-design_DeskDesc__1eGIi {
+        display: none
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv .home-interior-design_DeskDesc__1eGIi.home-interior-design_DeskDesc_tablet__3rs_3 {
+        display: inline-block
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv .home-interior-design_mobileDesc__WtqVv {
+        display: inline
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv .home-interior-design_mobileDesc__WtqVv .home-interior-design_initialContent__2FyHY {
+        color: #333;
+        font-size: 12px;
+        line-height: 22px;
+        padding-top: 0
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv .home-interior-design_mobileDesc__WtqVv.home-interior-design_mobileDesc_tablet__V0Y1- {
+        display: none
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv .home-interior-design_mobileDesc__WtqVv .home-interior-design_Switch__2HD6P {
+        color: red;
+        font-size: 12px;
+        line-height: 22px
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv .home-interior-design_mobileDesc__WtqVv .home-interior-design_extraContent__2wRMi {
+        color: #333;
+        display: none;
+        font-size: 12px;
+        line-height: 22px;
+        padding-top: 0
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_AboutHIDesigns__G9Drv .home-interior-design_mobileDesc__WtqVv .home-interior-design_extraContent__2wRMi .home-interior-design_Switch__2HD6P {
+        color: red
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIBFCSection__Ub2wa {
+        -moz-box-pack: justify;
+        display: block;
+        -webkit-justify-content: space-between;
+        justify-content: space-between;
+        padding: 10px 0 30px
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIBFCSection__Ub2wa .home-interior-design_HIBFCContent__1nuHd {
+        margin-left: 0;
+        margin-top: 0
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIBFCSection__Ub2wa .home-interior-design_HIBFCContent__1nuHd h3 {
+        display: none
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIBFCSection__Ub2wa .home-interior-design_HIBFCContent__1nuHd p {
+        color: #333;
+        font-size: 22px;
+        font-weight: 600;
+        padding: 18px 16px 24px;
+        text-align: center
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIBFCSection__Ub2wa .home-interior-design_HIBFCForm__11N8k {
+        border-radius: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        height: auto;
+        margin-right: 0;
+        width: 100%
+    }
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HIBFCNudgeCard__3fj5N {
+        margin-bottom: 30px
+    }
+}
+
+
+/* main */
+
+.mid {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+section.animate {
+    /* -webkit-animation: bounceIn 1s; */
+    animation: bounceIn 1s;
+}
+
+.ctaForm_mainContainer__1x2PH {
+    /* -moz-box-pack: space-evenly; */
+    /* -moz-box-align: center; */
+    /* -webkit-align-items: center; */
+    align-items: center;
+    background: #f7f7f9;
+    /* display: -webkit-flex; */
+    /* display: -moz-box; */
+    display: flex;
+    /* -webkit-justify-content: space-evenly; */
+    justify-content: space-evenly;
+    position: relative;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS {
+    /* display: -webkit-flex; */
+    /* display: -moz-box; */
+    display: flex;
+    /* -webkit-flex-basis: 50%; */
+    flex-basis: 50%;
+    height: 618px;
+    position: relative;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS .ctaForm_top__3QpDU {
+    height: 119px;
+    left: -15px!important;
+    max-width: 100%;
+    top: 70px;
+    width: 708px;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS img {
+    left: 0!important;
+    margin: auto;
+    position: absolute;
+    right: 0!important;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS .ctaForm_back__2PYS1 {
+    height: 440px;
+    /* left: 133px; */
+    max-width: 100%;
+    top: 60px;
+    /* width: 440px; */
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS .ctaForm_text__1RD3N {
+    height: 435px;
+    /* left: 115px; */
+    max-width: 100%;
+    top: 100px;
+    /* width: 484px; */
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_bfc__w9pgG.ctaForm_bfcMobile__3SZxU {
+    margin-top: -40px;
+    text-align: center;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_bfc__w9pgG {
+    /* -webkit-box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%); */
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    width: 351px;
+}
+
+section.fadeIn {
+    /* -webkit-animation: fadeIn .8s; */
+    animation: fadeIn .8s;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 {
+    border-radius: 8px;
+    /* display: -webkit-flex; */
+    /* display: -moz-box; */
+    /* display: flex; */
+    /* display: -webkit-flex!important; */
+    /* display: -moz-box!important; */
+    display: flex!important;
+    width: 100%;
+    /* z-index: 9; */
+}
+
+.bfcForm_registerLoginContainer__lrgC4 {
+    background-color: #fff;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_registerComponent__2qSic {
+    background: #fff;
+    border-radius: 8px;
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+
+.bfcForm_registerComponent__2qSic {
+    padding: 20px;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_bfc__w9pgG.ctaForm_bfcMobile__3SZxU h4 {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 15px;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_frm-grp__1ZfJi {
+    line-height: 1;
+    /* margin-bottom: 18px; */
+    position: relative;
+    text-align: left;
+}
+
+.bfcForm_form-input__2UiIr {
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    /* -webkit-box-shadow: none; */
+    box-shadow: none;
+    color: #474a50!important;
+    display: block;
+    font-size: 13px;
+    font-weight: 500;
+    height: 48px!important;
+    line-height: 1.42857143;
+    padding: 6px 12px;
+    width: 100%;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_frm-grp__1ZfJi svg {
+    fill: #4caf50;
+    display: inline-block;
+    height: 18px;
+    position: absolute;
+    right: 5px;
+    top: 26%;
+    width: 18px;
+}
+
+svg {
+    /* animation: fadeIn 2s; */
+    -webkit-animation: fadeIn 2s;
+}
+
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_frm-grp__1ZfJi {
+    line-height: 1;
+    /* margin-bottom: 18px; */
+    position: relative;
+    text-align: left;
+}
+
+.bfcForm_registerComponent__2qSic .bfcForm_btn-block__q815q {
+    padding-top: 10px;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_mainBtn__1tXif {
+    background-color: #e71c24!important;
+    border: 1px solid;
+    /* border-radius: 2px; */
+    border-radius: 6px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    /* font-size: 14px; */
+    font-weight: 600;
+    letter-spacing: -.12px;
+    line-height: 22px;
+    margin-bottom: 0;
+    /* padding: 10px 20px; */
+    text-align: center;
+    text-transform: uppercase;
+    touch-action: manipulation;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.bfcForm_registerComponent__2qSic .bfcForm_term-condition-line__qpig9 {
+    margin-top: 6px;
+}
+
+.bfcForm_term-condition-line__qpig9 {
+    color: #000;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 15px;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+.bfcForm_term-condition-link__3u0dN {
+    color: #e71c24;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_registerComponent__2qSic {
+    background: #fff;
+    border-radius: 8px;
+    /* display: inline-block; */
+    height: 100%;
+    width: 100%;
+}
+
+.bfcForm_registerComponent__2qSic {
+    padding: 20px;
+}
+
+.bfcForm_BfcFormWrapper__168cm .bfcForm_closeProceedAnyway__JVlr8 {
+    margin: -17px -20px;
+}
+
+.bfcForm_closeProceedAnyway__JVlr8 {
+    color: #8e9194;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 700;
+    /* margin: 0; */
+    padding: 0 10px;
+    text-align: right;
+}
+
+.bfcForm_proceedAnywayWrapper__3xDgu {
+    align-items: center;
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    margin: 5% 0;
+    text-align: center;
+}
+
+.bfcForm_proceedAnywayWrapper__3xDgu * {
+    padding: 15px;
+}
+
+@media (min-width: 700px) and (max-width: 1366px) {
+    .bfcForm_registerComponent__2qSic {
+        padding-top: 40px;
+    }
+    .bfcForm_frm-grp__1ZfJi {
+        margin-bottom: 25px!important;
+    }
+    .bfcForm_frm-grp__1ZfJi {
+        margin-bottom: 25px!important;
+    }
+    .bfcForm_registerComponent__2qSic {
+        padding-top: 40px;
+    }
+}
+
+.design-installation-body>div[data-v-624f2344]:nth-child(2n) {
+    background-color: var(--on-background-5);
+}
+
+@media (min-width: 1024px) {
+    .lg\:py-20 {
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+    }
+}
+
+.wrapper-class {
+    max-width: 1150px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+img {
+    display: block;
+    vertical-align: middle;
+}
+
+.six {
+    height: 600px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.s1 {
+    font-family: Gilroy;
+    font-weight: bolder;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+
+.s6 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.s2 {
+    display: flex;
+}
+
+.s3 {
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+}
+
+.s4 {
+    margin: 5px;
+    padding: 5px;
+    font-size: medium;
+    text-align: center;
+    font-weight: 400;
+}
+
+@media(max-width:700px) {
+    .six {
+        height: 1500px;
+    }
+    .row .s2 {
+        display: block;
+        white-space: nowrap;
+    }
+    .mi {
+        margin-left: 60px;
+    }
+    .mie {
+        margin-left: 40px;
+    }
+    .bfcContainer {
+        width: 50%;
+    }
+}
+
+.thir {
+    background: #F6F6F6;
+    height: 380px;
+    width: 105%;
+}
+
+.thirdtopic {
+    display: flex;
+    margin: 30px;
+    padding: 10px;
+    list-style-type: none;
+}
+
+.top1 {
+    width: 100px;
+    height: 100px;
+}
+
+.t1 {
+    margin-left: 50px;
+    margin-top: 10px;
+    padding: 10px;
+    font-family: Gilroy;
+    font-weight: bolder;
+}
+
+.t2 {
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 60px;
+    font-size: larger;
+    font-family: Gilroy;
+    font-weight: 400;
+}
+
+.top2 {
+    margin-left: 730px;
+    margin-top: -10px;
+    padding: 10px;
+}
+
+.landing-page-detail-body .section-block[data-v-7417f796]:nth-child(odd) {
+    background: var(--white);
+}
+
+@media (min-width: 1024px) {
+    .lg\:py-20 {
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+    }
+}
+
+.wrapper-class {
+    max-width: 1150px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.items-end {
+    align-items: flex-end;
+}
+
+.flex {
+    display: flex;
+}
+
+h2 {
+    font-size: 35px;
+    line-height: 42px;
+    color: var(--secondary-dark);
+    font-weight: 700;
+    font-family: Gilroy;
+}
+
+.mt-3 {
+    margin-top: 0.75rem;
+}
+
+p {
+    font-family: Roboto, sans-serif;
+    color: #41303e;
+    /* color: var(--secondary-dark); */
+}
+
+.min-width-fit-content[data-v-4d5d936d] {
+    /* min-width: -webkit-fit-content;
+    min-width: -moz-fit-content; */
+    min-width: fit-content;
+}
+
+.btn48-primary-normal {
+    background-color: #eb595f;
+    /* background-color: var(--primary-main); */
+    border-radius: 24px;
+    color: #fff;
+    /* color: var(--white); */
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: .75px;
+    line-height: 24px;
+    padding: 12px 48px;
+    text-transform: uppercase;
+    text-align: center;
+    transition: background-color .3s ease-out;
+    cursor: pointer;
+}
+
+.block {
+    display: block;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    outline: none;
+    background-color: transparent;
+}
+
+.mt-6 {
+    margin-top: 1.5rem;
+}
+
+.relative {
+    position: relative;
+}
+
+@media screen and (min-width: 601px) {
+    .swiper[data-v-4cf180d8] {
+        padding: 0 1px;
+    }
+}
+
+.swiper-container {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    overflow: hidden;
+    list-style: none;
+    padding: 0;
+    z-index: 1;
+}
+
+.list-view-carousel[data-v-c2cb2620] .swiper-container-wrapper .swiper-container-initialized .swiper-wrapper {
+    overflow: unset;
+}
+
+.list-view-carousel[data-v-c2cb2620] .swiper-container-wrapper .swiper-wrapper {
+    display: flex;
+    /* overflow: hidden; */
+}
+
+.swiper-container-free-mode>.swiper-wrapper {
+    transition-timing-function: ease-out;
+    margin: 0 auto;
+}
+
+.swiper-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    /* display: flex; */
+    transition-property: transform;
+    box-sizing: content-box;
+}
+
+.list-view-carousel[data-v-c2cb2620] .swiper-container-wrapper .swiper-container-initialized .swiper-wrapper .swiper-slide {
+    min-width: auto;
+}
+
+.our-completed-projects[data-v-4d5d936d] .list-view-carousel .swiper-slide {
+    overflow: hidden;
+}
+
+.list-view-carousel[data-v-c2cb2620] .swiper-slide {
+    box-shadow: 0 2px 8px rgb(0 0 0 / 16%);
+    border-radius: 16px;
+}
+
+.swiper-container[data-v-4cf180d8] .swiper-slide {
+    height: auto;
+}
+
+.swiper-slide {
+    flex-shrink: 0;
+    /* width: 100%;
+    height: 100%; */
+    position: relative;
+    transition-property: transform;
+}
+
+.h-full {
+    height: 100%;
+}
+
+@media screen and (min-width: 600px) {
+    .list-view-carousel[data-v-c2cb2620] .swiper-wrapper img {
+        display: block;
+    }
+}
+
+.rounded-lg {
+    border-radius: 0.5rem;
+}
+
+.our-completed-projects[data-v-4d5d936d] img {
+    filter: blur(2px);
+}
+
+.image-front[data-v-4d5d936d] {
+    background: linear-gradient(180deg, transparent, var(--black));
+}
+
+.w-full {
+    width: 100%;
+}
+
+.left-0 {
+    left: 0;
+}
+
+.top-0 {
+    top: 0;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.h-full {
+    height: 100%;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.flex {
+    display: flex;
+}
+
+.subtitle_large {
+    font-weight: 500;
+}
+
+.body_large,
+.subtitle_large {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.text-white {
+    --text-opacity: 1;
+    color: #fff;
+    /* color: rgba(255,255,255,var(--text-opacity)); */
+}
+
+p {
+    font-family: Roboto, sans-serif;
+}
+
+.caption_default {
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.text-white {
+    --text-opacity: 1;
+    color: #fff;
+    /* color: rgba(255,255,255,var(--text-opacity)); */
+}
+
+.list-view-carousel[data-v-c2cb2620] .swiper-container-wrapper .swiper-container-initialized .swiper-wrapper .swiper-slide {
+    min-width: auto;
+}
+
+.our-completed-projects[data-v-4d5d936d] .list-view-carousel .swiper-slide {
+    overflow: hidden;
+}
+
+.list-view-carousel[data-v-c2cb2620] .swiper-slide {
+    box-shadow: 0 2px 8px rgb(0 0 0 / 16%);
+    border-radius: 16px;
+}
+
+.swiper-container[data-v-4cf180d8] .swiper-slide {
+    height: auto;
+}
+
+.swiper-slide {
+    flex-shrink: 0;
+    /* width: 100%;
+    height: 100%; */
+    position: relative;
+    transition-property: transform;
+}
+
+@media screen and (min-width: 600px) {
+    .list-view-carousel[data-v-c2cb2620] .swiper-wrapper img {
+        display: block;
+    }
+}
+
+.our-completed-projects[data-v-4d5d936d] img {
+    filter: blur(2px);
+}
+
+.subtitle_large {
+    font-weight: 500;
+}
+
+.body_large,
+.subtitle_large {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.swiper-container .swiper-notification {
+    position: absolute;
+    left: 0;
+    top: 0;
+    pointer-events: none;
+    opacity: 0;
+    z-index: -1000;
+}
+
+.list-view-carousel[data-v-c2cb2620] .arrow-pos-left {
+    left: 0;
+    transform: translate(-24px, -25%);
+}
+
+.list-view-carousel[data-v-c2cb2620] .arrow {
+    position: absolute;
+    top: calc(50% - 24px);
+    display: none;
+    cursor: pointer;
+    border-radius: 30px;
+    background: #fff;
+    z-index: 999;
+    height: 48px;
+    width: 48px;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 31%);
+    outline: none;
+}
+
+.list-view-carousel[data-v-c2cb2620] .arrow-icon {
+    margin: 0;
+    transform: translate(-50%, -50%);
+    font-size: 32px;
+}
+
+[class^=icon-] {
+    color: #41303e;
+}
+
+.left-50 {
+    left: 50%;
+}
+
+.top-50 {
+    top: 50%;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.flex {
+    display: flex;
+}
+
+.list-view-carousel[data-v-c2cb2620] .show-next~.arrow-pos-right,
+.list-view-carousel[data-v-c2cb2620] .show-prev~.arrow-pos-left {
+    display: flex;
+}
+
+.list-view-carousel[data-v-c2cb2620] .arrow-pos-right {
+    right: 0;
+    transform: translate(24px, -25%);
+}
+
+.list-view-carousel[data-v-c2cb2620] .arrow {
+    position: absolute;
+    top: calc(50% - 24px);
+    /* display: none; */
+    cursor: pointer;
+    border-radius: 30px;
+    background: #fff;
+    z-index: 999;
+    height: 48px;
+    width: 48px;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 31%);
+    outline: none;
+}
+
+.arrow[data-v-27ff1d50] {
+    align-items: center;
+    justify-content: center;
+}
+
+.list-view-carousel[data-v-c2cb2620] .arrow-icon {
+    margin: 0;
+    transform: translate(-50%, -50%);
+    font-size: 32px;
+}
+
+.icon-arrow-right-icon:before {
+    content: "\e022";
+}
+
+[class*=" icon-"]:before,
+[class^=icon-]:before,
+[data-icon]:before {
+    font-family: "website-font";
+    font-style: normal;
+    font-weight: 400;
+    font-feature-settings: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+
+.landing-page-detail-body .section-block[data-v-7417f796]:nth-child(2n) {
+    background: var(--background-main);
+}
+
+@media (min-width: 1024px) {
+    .lg\:py-20 {
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+    }
+}
+
+.wrapper-class {
+    max-width: 1150px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.mb-6 {
+    margin-bottom: 1.5rem;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.flex {
+    display: flex;
+}
+
+.mr-8 {
+    margin-right: 2rem;
+}
+
+.mb-2 {
+    margin-bottom: 0.5rem;
+}
+
+.body_large,
+.subtitle_large {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+@media screen and (min-width: 601px) {
+    .swiper[data-v-4cf180d8] {
+        padding: 0 1px;
+    }
+}
+
+.swiper-container {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    overflow: hidden;
+    list-style: none;
+    padding: 0;
+    z-index: 1;
+}
+
+.swiper-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    display: flex;
+    transition-property: transform;
+    box-sizing: content-box;
+}
+
+.offer-item[data-v-8ae32c2c] {
+    border-radius: 8px;
+    overflow: hidden;
+    transition: box-shadow .2s ease-out;
+}
+
+.relative {
+    position: relative;
+}
+
+.h-full {
+    height: 100%;
+}
+
+.transform-your-city[data-v-7417f796] img {
+    min-height: 475px;
+}
+
+@media screen and (min-width: 601px) {
+    .swiper-container-initialized[data-v-4cf180d8] img,
+    .swiper-wrapper.hero[data-v-4cf180d8] img {
+        display: block;
+    }
+}
+
+.w-full {
+    width: 100%;
+}
+
+.rounded-l,
+.rounded-t {
+    border-top-left-radius: 0.25rem;
+}
+
+.rounded-t {
+    border-top-right-radius: 0.25rem;
+}
+
+.image-front[data-v-3754ec62] {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, transparent 80%, #000);
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.bottom-0 {
+    bottom: 0;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.p-4 {
+    padding: 1rem;
+    text-decoration: none;
+}
+
+.header-block p[data-v-2acff653] {
+    color: var(--white);
+}
+
+.subtitle_large {
+    font-weight: 500;
+}
+
+.body_large,
+.subtitle_large {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.header-block p[data-v-2acff653] {
+    color: var(--white);
+}
+
+.subtitle_large {
+    font-weight: 500;
+}
+
+.body_large,
+.subtitle_large {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.header-block p[data-v-2acff653] {
+    color: var(--white);
+}
+
+.body_default,
+.subtitle_default {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.mt-1 {
+    margin-top: 0.25rem;
+}
+
+.swiper-container[data-v-4cf180d8] .swiper-slide {
+    height: auto;
+}
+
+.swiper-slide {
+    flex-shrink: 0;
+    position: relative;
+    transition-property: transform;
+}
+
+.swiper-container .swiper-notification {
+    position: absolute;
+    left: 0;
+    top: 0;
+    pointer-events: none;
+    opacity: 0;
+    z-index: -1000;
+}
+
+.text-white {
+    --text-opacity: 1;
+}
+
+.header-block p[data-v-2acff653] {
+    color: var(--white);
+}
+
+.body_default,
+.subtitle_default {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.mt-1 {
+    margin-top: 0.25rem;
+}
+
+.swiper-container[data-v-4cf180d8] .swiper-slide {
+    height: auto;
+}
+
+.swiper-slide {
+    flex-shrink: 0;
+    position: relative;
+    transition-property: transform;
+}
+
+.transform-your-city[data-v-7417f796] img {
+    min-height: 475px;
+}
+
+@media screen and (min-width: 601px) {
+    .swiper-container-initialized[data-v-4cf180d8] img,
+    .swiper-wrapper.hero[data-v-4cf180d8] img {
+        display: block;
+    }
+}
+
+.home-page-body>div[data-v-56e8ecc3]:nth-child(odd) {
+    background-color: var(--white);
+}
+
+.bg-secondary-gradient {
+    background: linear-gradient(180deg, #41303e, #87547f);
+}
+
+@media (min-width: 768px) {
+    .md\:py-20 {
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+    }
+}
+
+.wrapper-class {
+    max-width: 1150px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.smartphoto-widget[data-v-b8ca6a22] .content-header {
+    margin-bottom: 24px;
+}
+
+.relative {
+    position: relative;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.items-end {
+    align-items: flex-end;
+}
+
+.flex {
+    display: flex;
+}
+
+.smartphoto-widget[data-v-b8ca6a22] .content-header .title {
+    color: var(--white);
+}
+
+.mb-2 {
+    margin-bottom: 0.5rem;
+}
+
+.smartphoto-widget[data-v-b8ca6a22] .content-header .subtitle-block,
+.smartphoto-widget[data-v-b8ca6a22] .content-header .title {
+    color: var(--white);
+}
+
+.body_large,
+.subtitle_large {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+@media screen and (min-width: 601px) {
+    .swiper[data-v-4cf180d8] {
+        padding: 0 1px;
+    }
+}
+
+.swiper-container {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    overflow: hidden;
+    list-style: none;
+    padding: 0;
+    z-index: 1;
+}
+
+.swiper-container-initialized[data-v-4cf180d8] .swiper-wrapper {
+    overflow: unset;
+}
+
+.swiper-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    display: flex;
+    transition-property: transform;
+    box-sizing: content-box;
+}
+
+.swiper-container[data-v-4cf180d8] .swiper-slide {
+    height: auto;
+}
+
+.swiper-slide {
+    flex-shrink: 0;
+    position: relative;
+    transition-property: transform;
+}
+
+.smartphoto-widget[data-v-b8ca6a22] .image-text-card {
+    max-width: 348px;
+}
+
+.material-card[data-v-6e0dcb7e] {
+    border: 1px solid var(--on-surface-20);
+}
+
+.bg-white,
+.navbar-laravel,
+.property-list {
+    background-color: var(--white);
+}
+
+.h-full {
+    height: 100%;
+}
+
+.rounded {
+    border-radius: 0.25rem;
+}
+
+.h-full {
+    height: 100%;
+}
+
+.smartphoto-widget[data-v-b8ca6a22] video {
+    border-radius: 0;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+}
+
+.relative {
+    position: relative;
+}
+
+.p-4 {
+    padding: 1rem;
+    text-decoration: none;
+}
+
+.subtitle_default {
+    font-weight: 500;
+}
+
+.body_default,
+.subtitle_default {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.smartphoto-widget[data-v-b8ca6a22] .swiper-slide .body_default {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.on-surface-70-color {
+    color: #7a6e77;
+    /* color: var(--on-surface-70); */
+}
+
+.pt-1 {
+    padding-top: 0.25rem;
+}
+
+.swiper-container[data-v-4cf180d8] .swiper-slide {
+    height: auto;
+}
+
+.swiper-slide {
+    flex-shrink: 0;
+    /* width: 100%;
+    height: 100%; */
+    position: relative;
+    transition-property: transform;
+}
+
+.smartphoto-widget[data-v-b8ca6a22] .image-text-card {
+    max-width: 348px;
+}
+
+.material-card[data-v-6e0dcb7e] {
+    border: 1px solid var(--on-surface-20);
+}
+
+.bg-white,
+.navbar-laravel,
+.property-list {
+    background-color: var(--white);
+}
+
+.h-full {
+    height: 100%;
+}
+
+.rounded {
+    border-radius: 0.25rem;
+}
+
+.smartphoto-widget[data-v-b8ca6a22] video {
+    border-radius: 0;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+}
+
+video {
+    display: block;
+    vertical-align: middle;
+}
+
+.relative {
+    position: relative;
+}
+
+.p-4 {
+    padding: 1rem;
+    text-decoration: none;
+}
+
+.subtitle_default {
+    font-weight: 500;
+}
+
+.body_default,
+.subtitle_default {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.smartphoto-widget[data-v-b8ca6a22] .swiper-slide .body_default {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.on-surface-70-color {
+    color: #7a6e77;
+    /* color: var(--on-surface-70); */
+}
+
+.pt-1 {
+    padding-top: 0.25rem;
+}
+
+.swiper-container[data-v-4cf180d8] .swiper-slide {
+    height: auto;
+}
+
+.swiper-slide {
+    flex-shrink: 0;
+    /* width: 100%;
+    height: 100%; */
+    position: relative;
+    transition-property: transform;
+}
+
+.smartphoto-widget[data-v-b8ca6a22] .image-text-card {
+    max-width: 348px;
+}
+
+.material-card[data-v-6e0dcb7e] {
+    border: 1px solid var(--on-surface-20);
+}
+
+.bg-white,
+.navbar-laravel,
+.property-list {
+    background-color: var(--white);
+}
+
+.h-full {
+    height: 100%;
+}
+
+.rounded {
+    border-radius: 0.25rem;
+}
+
+.smartphoto-widget[data-v-b8ca6a22] video {
+    border-radius: 0;
+}
+
+.swiper-container[data-v-4cf180d8] .swiper-slide {
+    height: auto;
+}
+
+.swiper-slide {
+    flex-shrink: 0;
+    /* width: 100%;
+    height: 100%; */
+    position: relative;
+    transition-property: transform;
+}
+
+.smartphoto-widget[data-v-b8ca6a22] .image-text-card {
+    max-width: 348px;
+}
+
+.material-card[data-v-6e0dcb7e] {
+    border: 1px solid var(--on-surface-20);
+}
+
+.bg-white,
+.navbar-laravel,
+.property-list {
+    background-color: var(--white);
+}
+
+.smartphoto-widget[data-v-b8ca6a22] .image-text-card {
+    max-width: 348px;
+}
+
+.material-card[data-v-6e0dcb7e] {
+    border: 1px solid var(--on-surface-20);
+}
+
+.bg-white,
+.navbar-laravel,
+.property-list {
+    background-color: var(--white);
+}
+
+.core-materials[data-v-6e0dcb7e] .arrow-pos-left {
+    left: -24px;
+}
+
+.core-materials[data-v-6e0dcb7e] .arrow {
+    top: 36%;
+}
+
+.show-next~.arrow-pos-right[data-v-27ff1d50],
+.show-prev~.arrow-pos-left[data-v-27ff1d50] {
+    display: flex;
+}
+
+.arrow[data-v-27ff1d50] {
+    position: absolute;
+    /* top: 42%; */
+    cursor: pointer;
+    /* display: none; */
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    background: #fff;
+    z-index: 999;
+    height: 48px;
+    width: 48px;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 31%);
+    outline: none;
+}
+
+.arrow-icon[data-v-27ff1d50] {
+    transform: translate(-50%, -50%);
+}
+
+.arrow-icon[data-v-27ff1d50] {
+    margin: 0;
+    font-size: 32px;
+}
+
+[class*=" icon-"],
+[class^=icon-] {
+    color: #41303e;
+}
+
+.left-50 {
+    left: 50%;
+}
+
+.top-50 {
+    top: 50%;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.flex {
+    display: flex;
+}
+
+.icon-arrow-left-icon:before {
+    content: "\e021";
+}
+
+[class*=" icon-"]:before,
+[class^=icon-]:before,
+[data-icon]:before {
+    font-family: "website-font";
+    font-style: normal;
+    font-weight: 400;
+    font-feature-settings: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    /* -moz-osx-font-smoothing: grayscale; */
+}
+
+.core-materials[data-v-6e0dcb7e] .arrow-pos-right {
+    right: -24px;
+}
+
+.core-materials[data-v-6e0dcb7e] .arrow {
+    top: 36%;
+}
+
+.arrow[data-v-27ff1d50] {
+    position: absolute;
+    /* top: 42%; */
+    cursor: pointer;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    background: #fff;
+    z-index: 999;
+    height: 48px;
+    width: 48px;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 31%);
+    outline: none;
+}
+
+.arrow-icon[data-v-27ff1d50] {
+    transform: translate(-50%, -50%);
+}
+
+.arrow-icon[data-v-27ff1d50] {
+    margin: 0;
+    font-size: 32px;
+}
+
+[class*=" icon-"],
+[class^=icon-] {
+    color: #41303e;
+}
+
+.left-50 {
+    left: 50%;
+}
+
+.top-50 {
+    top: 50%;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.flex {
+    display: flex;
+}
+
+.eigt {
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.e1 {
+    margin-left: 80px;
+    font-family: Gilroy;
+    font-weight: bolder;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.e1:hover {
+    -webkit-text-fill-color: red;
+}
+
+.e10 {
+    background: #ffafbd;
+}
+
+.e2 {
+    display: flex;
+    margin-left: 20px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.e3 {
+    align-content: center;
+    padding: 10px;
+    text-align: center;
+}
+
+.e5 {
+    display: flex;
+    margin-left: 20px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.e6 {
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.e4 {
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+img {
+    vertical-align: middle;
+    max-width: 100%;
+}
+
+@media(max-width:700px) {
+    .e6 {
+        white-space: inherit;
+    }
+    .e7 {
+        text-align: center;
+        margin-left: -20px;
+    }
+    .e2 {
+        display: block;
+    }
+}
+
+section.animate {
+    /* -webkit-animation: bounceIn 1s; */
+    animation: bounceIn 1s;
+}
+
+.ctaForm_mainContainer__1x2PH {
+    /* -moz-box-pack: space-evenly; */
+    /* -moz-box-align: center; */
+    /* -webkit-align-items: center; */
+    align-items: center;
+    background: #f7f7f9;
+    /* display: -webkit-flex; */
+    /* display: -moz-box; */
+    display: flex;
+    /* -webkit-justify-content: space-evenly; */
+    justify-content: space-evenly;
+    position: relative;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS {
+    /* display: -webkit-flex; */
+    /* display: -moz-box; */
+    display: flex;
+    /* -webkit-flex-basis: 50%; */
+    flex-basis: 50%;
+    height: 618px;
+    position: relative;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS .ctaForm_top__3QpDU {
+    height: 119px;
+    left: -15px!important;
+    max-width: 100%;
+    top: 70px;
+    width: 708px;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS img {
+    left: 0!important;
+    margin: auto;
+    position: absolute;
+    right: 0!important;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS .ctaForm_back__2PYS1 {
+    height: 440px;
+    /* left: 133px; */
+    max-width: 100%;
+    top: 60px;
+    /* width: 440px; */
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS .ctaForm_text__1RD3N {
+    height: 435px;
+    /* left: 115px; */
+    max-width: 100%;
+    top: 100px;
+    /* width: 484px; */
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_bfc__w9pgG.ctaForm_bfcMobile__3SZxU {
+    margin-top: -40px;
+    text-align: center;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_bfc__w9pgG {
+    /* -webkit-box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%); */
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    width: 351px;
+}
+
+section.fadeIn {
+    /* -webkit-animation: fadeIn .8s; */
+    animation: fadeIn .8s;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 {
+    border-radius: 8px;
+    /* display: -webkit-flex; */
+    /* display: -moz-box; */
+    /* display: flex; */
+    /* display: -webkit-flex!important; */
+    /* display: -moz-box!important; */
+    display: flex!important;
+    width: 100%;
+    /* z-index: 9; */
+}
+
+.bfcForm_registerLoginContainer__lrgC4 {
+    background-color: #fff;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_registerComponent__2qSic {
+    background: #fff;
+    border-radius: 8px;
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+
+.bfcForm_registerComponent__2qSic {
+    padding: 20px;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_bfc__w9pgG.ctaForm_bfcMobile__3SZxU h4 {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 15px;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_frm-grp__1ZfJi {
+    line-height: 1;
+    /* margin-bottom: 18px; */
+    position: relative;
+    text-align: left;
+}
+
+.bfcForm_form-input__2UiIr {
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    /* -webkit-box-shadow: none; */
+    box-shadow: none;
+    color: #474a50!important;
+    display: block;
+    font-size: 13px;
+    font-weight: 500;
+    height: 48px!important;
+    line-height: 1.42857143;
+    padding: 6px 12px;
+    width: 100%;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_frm-grp__1ZfJi svg {
+    fill: #4caf50;
+    display: inline-block;
+    height: 18px;
+    position: absolute;
+    right: 5px;
+    top: 26%;
+    width: 18px;
+}
+
+svg {
+    /* animation: fadeIn 2s; */
+    -webkit-animation: fadeIn 2s;
+}
+
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_frm-grp__1ZfJi {
+    line-height: 1;
+    /* margin-bottom: 18px; */
+    position: relative;
+    text-align: left;
+}
+
+.bfcForm_registerComponent__2qSic .bfcForm_btn-block__q815q {
+    padding-top: 10px;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_mainBtn__1tXif {
+    background-color: #e71c24!important;
+    border: 1px solid;
+    /* border-radius: 2px; */
+    border-radius: 6px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    /* font-size: 14px; */
+    font-weight: 600;
+    letter-spacing: -.12px;
+    line-height: 22px;
+    margin-bottom: 0;
+    /* padding: 10px 20px; */
+    text-align: center;
+    text-transform: uppercase;
+    touch-action: manipulation;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.bfcForm_registerComponent__2qSic .bfcForm_term-condition-line__qpig9 {
+    margin-top: 6px;
+}
+
+.bfcForm_term-condition-line__qpig9 {
+    color: #000;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 15px;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+.bfcForm_term-condition-link__3u0dN {
+    color: #e71c24;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_registerComponent__2qSic {
+    background: #fff;
+    border-radius: 8px;
+    /* display: inline-block; */
+    height: 100%;
+    width: 100%;
+}
+
+.bfcForm_registerComponent__2qSic {
+    padding: 20px;
+}
+
+.bfcForm_BfcFormWrapper__168cm .bfcForm_closeProceedAnyway__JVlr8 {
+    margin: -17px -20px;
+}
+
+.bfcForm_closeProceedAnyway__JVlr8 {
+    color: #8e9194;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 700;
+    /* margin: 0; */
+    padding: 0 10px;
+    text-align: right;
+}
+
+.bfcForm_proceedAnywayWrapper__3xDgu {
+    align-items: center;
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    margin: 5% 0;
+    text-align: center;
+}
+
+.bfcForm_proceedAnywayWrapper__3xDgu * {
+    padding: 15px;
+}
+
+@media (min-width: 700px) and (max-width: 1366px) {
+    .bfcForm_registerComponent__2qSic {
+        padding-top: 40px;
+    }
+    .bfcForm_frm-grp__1ZfJi {
+        margin-bottom: 25px!important;
+    }
+    .bfcForm_frm-grp__1ZfJi {
+        margin-bottom: 25px!important;
+    }
+    .bfcForm_registerComponent__2qSic {
+        padding-top: 40px;
+    }
+}
+
+.relative {
+    position: relative;
+}
+
+.refer-a-friend[data-v-fefec5c8] .landing-page-banner img {
+    min-height: auto;
+}
+
+img.hero.loaded {
+    opacity: 1;
+}
+
+img.hero {
+    transition: opacity 1s ease .2s;
+    /* opacity: 0; */
+}
+
+.w-full {
+    width: 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+img {
+    display: block;
+    vertical-align: middle;
+}
+
+.breadcrumb[data-v-8320cc24] {
+    max-width: 1150px;
+    margin: auto;
+    padding: 32px 20px;
+}
+
+.caption_default {
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.secondary-dark-color {
+    color: #41303e;
+    /* color: var(--secondary-dark); */
+}
+
+.flex {
+    display: flex;
+}
+
+.link {
+    color: #eb595f;
+    /* color: var(--primary-main); */
+    font-weight: 500;
+    cursor: pointer;
+}
+
+a {
+    background-color: transparent;
+}
+
+a {
+    /* color: inherit; */
+    text-decoration: inherit;
+    outline: none;
+}
+
+.crumb-separator[data-v-8320cc24] {
+    margin-right: 2px;
+}
+
+.bg-white,
+.navbar-laravel,
+.property-list {
+    background-color: var(--white);
+}
+
+@media (min-width: 768px) {
+    .md\:rounded-none {
+        border-radius: 0;
+    }
+}
+
+.relative {
+    position: relative;
+}
+
+.-mt-8 {
+    margin-top: -2rem;
+}
+
+.wrapper-class {
+    max-width: 1150px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.fit-width {
+    /* width: -webkit-fit-content;
+    width: -moz-fit-content; */
+    width: fit-content;
+}
+
+@media (min-width: 768px) {
+    .md\:text-center {
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px) {
+    .md\:pt-12 {
+        padding-top: 3rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .md\:pl-3 {
+        padding-left: 0.75rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .md\:m-auto {
+        margin: auto;
+    }
+}
+
+.relative {
+    position: relative;
+}
+
+.red-tape[data-v-fefec5c8] {
+    margin-top: 6px;
+    height: 35%;
+    width: 4px;
+    left: 0;
+    border-radius: 2px;
+    background-color: red;
+}
+
+.absolute {
+    position: absolute;
+}
+
+h1 {
+    font-size: 45px;
+    line-height: 54px;
+}
+
+h1 {
+    color: #41303e;
+    /* color: var(--secondary-dark); */
+    font-weight: 700;
+    font-family: Gilroy;
+}
+
+.body_large,
+.subtitle_large {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+@media (min-width: 768px) {
+    .md\:text-center {
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px) {
+    .md\:mt-3 {
+        margin-top: 0.75rem;
+    }
+}
+
+.m-auto {
+    margin: auto;
+}
+
+@media (min-width: 768px) {
+    .md\:text-center {
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px) {
+    .md\:mt-2 {
+        margin-top: 0.5rem;
+    }
+}
+
+h3 {
+    font-size: 25px;
+    line-height: 32px;
+}
+
+h3 {
+    color: #41303e;
+    /* color: var(--secondary-dark); */
+    font-weight: 700;
+    font-family: Gilroy;
+}
+
+.fit-width {
+    /* width: -webkit-fit-content;
+    width: -moz-fit-content; */
+    width: fit-content;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.primary-main-color {
+    color: #eb595f!important;
+    /* color: var(--primary-main)!important; */
+}
+
+@media (min-width: 768px) {
+    .md\:text-center {
+        text-align: center;
+    }
+    .mt-5 {
+        margin-top: 1.25rem;
+    }
+    .m-auto {
+        margin: auto;
+    }
+}
+
+.bg-main {
+    background-color: #f5f4f5;
+    /* background-color: var(--background-main); */
+}
+
+.py-20 {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.mt-12 {
+    margin-top: 3rem;
+}
+
+.wrapper-class {
+    max-width: 1150px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+@media (min-width: 768px) {
+    .md\:text-center {
+        text-align: center;
+    }
+}
+
+h2 {
+    font-size: 35px;
+    line-height: 42px;
+}
+
+h2 {
+    color: #41303e;
+    /* color: var(--secondary-dark); */
+    font-weight: 700;
+    font-family: Gilroy;
+}
+
+.hiw-block[data-v-a07cb5f8] {
+    max-width: 956px;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.tail[data-v-a07cb5f8] {
+    border-top: 1px dashed #41303e;
+    width: 70%;
+    top: 83px;
+}
+
+.relative {
+    position: relative;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.pt-10 {
+    padding-top: 2.5rem;
+}
+
+.-mx-4 {
+    margin-left: -1rem;
+    margin-right: -1rem;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.flex {
+    display: flex;
+}
+
+ul {
+    list-style: none;
+    /* margin: 0; */
+    padding: 0;
+}
+
+.px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.icon-img[data-v-a07cb5f8] {
+    border-radius: 100%;
+    background-color: var(--white);
+    box-shadow: 0 2px 4px 0 rgb(65 48 62 / 15%);
+}
+
+[class*=" icon-"],
+[class^=icon-] {
+    color: #41303e;
+}
+
+.relative {
+    position: relative;
+}
+
+.p-2 {
+    padding: 0.5rem;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.subtitle_default {
+    font-weight: 500;
+}
+
+.body_default,
+.subtitle_default {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mt-2 {
+    margin-top: 0.5rem;
+}
+
+p {
+    font-family: Roboto, sans-serif;
+    color: #41303e;
+    /* color: var(--secondary-dark); */
+}
+
+.body_default {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mt-2 {
+    margin-top: 0.5rem;
+}
+
+.wrapper-class {
+    max-width: 1150px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+@media (min-width: 768px) {
+    .md\:text-center {
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px) {
+    .md\:my-20 {
+        margin-top: 5rem;
+        margin-bottom: 5rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .md\:w-8\/12 {
+        width: 66.666667%;
+    }
+}
+
+@media (min-width: 768px) {
+    .md\:mt-5 {
+        margin-top: 1.25rem;
+    }
+    .text-left {
+        text-align: left;
+    }
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ol,
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.secondary-dark-color {
+    color: #41303e;
+    color: var(--secondary-dark);
+}
+
+.mb-2 {
+    margin-bottom: 0.5rem;
+}
+
+.refer-friend-tnc li[data-v-fefec5c8]:last-child {
+    margin-bottom: 0;
+}
+
+li.tnc-list-item[data-v-fefec5c8] ul {
+    margin-left: 20px;
+    margin-top: 8px;
+}
+
+li.tnc-list-item[data-v-fefec5c8] ul li {
+    margin-bottom: 8px;
+}
+
+li.tnc-list-item[data-v-fefec5c8] ul li {
+    margin-bottom: 8px;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+p {
+    font-family: Roboto, sans-serif;
+    color: #41303e;
+    /* color: var(--secondary-dark); */
+}
+
+h2 {
+    font-size: 35px;
+    line-height: 42px;
+}
+
+h2 {
+    color: #41303e;
+    /* color: var(--secondary-dark); */
+    font-weight: 700;
+    font-family: Gilroy;
+}
+
+section.animate {
+    /* -webkit-animation: bounceIn 1s; */
+    animation: bounceIn 1s;
+}
+
+.ctaForm_mainContainer__1x2PH {
+    /* -moz-box-pack: space-evenly; */
+    /* -moz-box-align: center; */
+    /* -webkit-align-items: center; */
+    align-items: center;
+    background: #f7f7f9;
+    /* display: -webkit-flex; */
+    /* display: -moz-box; */
+    display: flex;
+    /* -webkit-justify-content: space-evenly; */
+    justify-content: space-evenly;
+    position: relative;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS {
+    /* display: -webkit-flex; */
+    /* display: -moz-box; */
+    display: flex;
+    /* -webkit-flex-basis: 50%; */
+    flex-basis: 50%;
+    height: 618px;
+    position: relative;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS .ctaForm_top__3QpDU {
+    height: 119px;
+    left: -15px!important;
+    max-width: 100%;
+    top: 70px;
+    width: 708px;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS img {
+    left: 0!important;
+    margin: auto;
+    position: absolute;
+    right: 0!important;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS .ctaForm_back__2PYS1 {
+    height: 440px;
+    /* left: 133px; */
+    max-width: 100%;
+    top: 60px;
+    /* width: 440px; */
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_cta__1LfSS .ctaForm_text__1RD3N {
+    height: 435px;
+    /* left: 115px; */
+    max-width: 100%;
+    top: 100px;
+    /* width: 484px; */
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_bfc__w9pgG.ctaForm_bfcMobile__3SZxU {
+    margin-top: -40px;
+    text-align: center;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_bfc__w9pgG {
+    /* -webkit-box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%); */
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    width: 351px;
+}
+
+section.fadeIn {
+    /* -webkit-animation: fadeIn .8s; */
+    animation: fadeIn .8s;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 {
+    border-radius: 8px;
+    /* display: -webkit-flex; */
+    /* display: -moz-box; */
+    /* display: flex; */
+    /* display: -webkit-flex!important; */
+    /* display: -moz-box!important; */
+    display: flex!important;
+    width: 100%;
+    /* z-index: 9; */
+}
+
+.bfcForm_registerLoginContainer__lrgC4 {
+    background-color: #fff;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_registerComponent__2qSic {
+    background: #fff;
+    border-radius: 8px;
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+
+.bfcForm_registerComponent__2qSic {
+    padding: 20px;
+}
+
+.ctaForm_mainContainer__1x2PH .ctaForm_bfc__w9pgG.ctaForm_bfcMobile__3SZxU h4 {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 15px;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_frm-grp__1ZfJi {
+    line-height: 1;
+    /* margin-bottom: 18px; */
+    position: relative;
+    text-align: left;
+}
+
+.bfcForm_form-input__2UiIr {
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    /* -webkit-box-shadow: none; */
+    box-shadow: none;
+    color: #474a50!important;
+    display: block;
+    font-size: 13px;
+    font-weight: 500;
+    height: 48px!important;
+    line-height: 1.42857143;
+    padding: 6px 12px;
+    width: 100%;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_frm-grp__1ZfJi svg {
+    fill: #4caf50;
+    display: inline-block;
+    height: 18px;
+    position: absolute;
+    right: 5px;
+    top: 26%;
+    width: 18px;
+}
+
+svg {
+    /* animation: fadeIn 2s; */
+    -webkit-animation: fadeIn 2s;
+}
+
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_frm-grp__1ZfJi {
+    line-height: 1;
+    /* margin-bottom: 18px; */
+    position: relative;
+    text-align: left;
+}
+
+.bfcForm_registerComponent__2qSic .bfcForm_btn-block__q815q {
+    padding-top: 10px;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_mainBtn__1tXif {
+    background-color: #e71c24!important;
+    border: 1px solid;
+    /* border-radius: 2px; */
+    border-radius: 6px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    /* font-size: 14px; */
+    font-weight: 600;
+    letter-spacing: -.12px;
+    line-height: 22px;
+    margin-bottom: 0;
+    /* padding: 10px 20px; */
+    text-align: center;
+    text-transform: uppercase;
+    touch-action: manipulation;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.bfcForm_registerComponent__2qSic .bfcForm_term-condition-line__qpig9 {
+    margin-top: 6px;
+}
+
+.bfcForm_term-condition-line__qpig9 {
+    color: #000;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 15px;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+.bfcForm_term-condition-link__3u0dN {
+    color: #e71c24;
+}
+
+.bfcForm_registerLoginContainer__lrgC4 .bfcForm_registerComponent__2qSic {
+    background: #fff;
+    border-radius: 8px;
+    /* display: inline-block; */
+    height: 100%;
+    width: 100%;
+}
+
+.bfcForm_registerComponent__2qSic {
+    padding: 20px;
+}
+
+.bfcForm_BfcFormWrapper__168cm .bfcForm_closeProceedAnyway__JVlr8 {
+    margin: -17px -20px;
+}
+
+.bfcForm_closeProceedAnyway__JVlr8 {
+    color: #8e9194;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 700;
+    /* margin: 0; */
+    padding: 0 10px;
+    text-align: right;
+}
+
+.bfcForm_proceedAnywayWrapper__3xDgu {
+    align-items: center;
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    margin: 5% 0;
+    text-align: center;
+}
+
+.bfcForm_proceedAnywayWrapper__3xDgu * {
+    padding: 15px;
+}
+
+@media (min-width: 700px) and (max-width: 1366px) {
+    .bfcForm_registerComponent__2qSic {
+        padding-top: 40px;
+    }
+    .bfcForm_frm-grp__1ZfJi {
+        margin-bottom: 25px!important;
+    }
+    .bfcForm_frm-grp__1ZfJi {
+        margin-bottom: 25px!important;
+    }
+    .bfcForm_registerComponent__2qSic {
+        padding-top: 40px;
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l.home-interior-design_BannerBgShadeCTA__3pnKm {
+    min-height: 600px;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi {
+    position: absolute;
+    z-index: 1;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_kitchen__1U8Av {
+    left: -14px;
+    top: -45px;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi {
+    position: absolute;
+    z-index: 1;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_kitchen__1U8Av svg {
+    height: 259px;
+    width: 259px;
+}
+
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+svg {
+    animation: fadeIn 2s;
+    -webkit-animation: fadeIn 2s;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_bedroom__2Hq8i {
+    left: 1000px;
+    top: -35px;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi {
+    position: absolute;
+    z-index: 1;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_bedroom__2Hq8i svg {
+    height: 169px;
+    width: 169px;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_bathroom__2Tozz {
+    left: 210px;
+    top: 420px;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_bannerSvg__20lRi.home-interior-design_bannerSvgCTA__2DyJe .home-interior-design_bathroom__2Tozz svg {
+    height: 123px;
+    width: 123px;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 {
+    /* -moz-box-align: center;
+    -webkit-align-items: center; */
+    align-items: center;
+    background: #f2ebe8;
+    /* display: -webkit-flex!important;
+    display: -moz-box!important; */
+    display: flex!important;
+    padding-left: 0;
+    position: relative;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 {
+    /* -moz-box-pack: justify; */
+    color: #000;
+    /* display: -webkit-flex;
+    display: -moz-box;
+    display: flex; */
+    height: auto;
+    /* -webkit-justify-content: space-between; */
+    justify-content: space-between;
+    /* /* padding-left: 64px; */
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH.home-interior-design_HIBannerTitleCTA__Idxdm {
+    /* -webkit-flex-basis: 30%; */
+    flex-basis: 30%;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH {
+    /* -webkit-flex-basis: 50%;
+    flex-basis: 50%; */
+    max-width: 100%;
+    padding-left: 64px;
+    padding-top: 0;
+    width: 600px;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerTitle__Vd5FH .home-interior-design_HIBTitle__3S3Df {
+    color: #161d4f;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 52px;
+}
+
+@media (min-width: 1600px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu {
+        min-height: 500px;
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu {
+    /* -webkit-flex-basis: 40%; */
+    flex-basis: 40%;
+    max-width: 570px;
+    /* min-height: 400px; */
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB {
+    /* -webkit-flex-basis: 50%;
+    flex-basis: 50%;
+    min-height: 559px; */
+    position: relative;
+    width: 100%;
+}
+
+@media (min-width: 1100px) and (min-width: 1300px) and (min-width: 1400px) and (min-width: 1600px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO {
+        top: 60px;
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO {
+    /* -moz-box-align: end;
+    -moz-box-pack: center;
+    -webkit-align-items: end; */
+    align-items: end;
+    /* display: -webkit-flex;
+    display: -moz-box; */
+    display: flex;
+    height: 531px;
+    /* -webkit-justify-content: center; */
+    justify-content: center;
+    left: 0;
+    /* top: 85px; */
+    width: 570px;
+    z-index: 101;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO {
+    /* height: 545px;
+    left: 0; */
+    margin: auto;
+    position: absolute;
+    right: 0;
+    /* top: 45px;
+    width: 591px;
+    z-index: 1; */
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB.home-interior-design_bannerImageCTA__gSvtu .home-interior-design_absolute__3xDvO img {
+    height: 531px;
+    width: 570px;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img1__1lsfZ {
+    -webkit-animation-delay: 0s;
+    animation-delay: 0s;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img1__1lsfZ {
+    animation-duration: 9s;
+    /* -webkit-animation-iteration-count: infinite; */
+    animation-iteration-count: infinite;
+    animation-name: home-interior-design_fade__2u82I;
+    background-repeat: no-repeat;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    z-index: -18;
+}
+
+img {
+    -webkit-animation: fadeIn 2s;
+}
+
+img {
+    border-style: none;
+    vertical-align: middle;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img2__tKCPd {
+    -webkit-animation-delay: 3s;
+    animation-delay: 3s;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img2__tKCPd {
+    animation-duration: 9s;
+    /* -webkit-animation-iteration-count: infinite; */
+    animation-iteration-count: infinite;
+    /* -webkit-animation-name: home-interior-design_fade__2u82I; */
+    animation-name: home-interior-design_fade__2u82I;
+    background-repeat: no-repeat;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    z-index: -18;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img3__145qg {
+    -webkit-animation-delay: 6s;
+    animation-delay: 6s;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_bannerImage__3KFBB .home-interior-design_absolute__3xDvO .home-interior-design_img3__145qg {
+    /* -webkit-animation-duration: 9s; */
+    animation-duration: 9s;
+    /* -webkit-animation-iteration-count: infinite; */
+    animation-iteration-count: infinite;
+    /* -webkit-animation-name: home-interior-design_fade__2u82I; */
+    animation-name: home-interior-design_fade__2u82I;
+    background-repeat: no-repeat;
+    /* height: 545px; */
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    /* width: 591px; */
+    z-index: -18;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HomeInteriorContent__n1-P8 .home-interior-design_HIBannerBfc__34UW5 {
+    /* -webkit-align-self: center;
+    align-self: center; */
+    /* background-color: #fff; */
+    background-image: none;
+    border-radius: 8px;
+    height: auto;
+    margin-bottom: 5%;
+    margin-right: 40px;
+    margin-top: 5%;
+    width: 370px;
+    z-index: 100;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIBannerBfc__34UW5 {
+    background-color: transparent!important;
+    display: block!important;
+    /* -webkit-flex-basis: 30%; */
+    flex-basis: 30%;
+    max-width: 352px;
+    min-height: 451px;
+}
+
+@media (min-width: 1000px) and (min-width: 1100px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3.home-interior-design_HIMobileBannerBfcDesk__3hFy5 {
+        display: none;
+    }
+}
+
+@media (min-width: 1000px) {
+    .home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3 {
+        padding: 85px 15px 45px;
+        text-align: center;
+    }
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3 {
+    /* display: block;
+    padding: 52px 15px 45px; */
+    position: relative;
+    z-index: 2;
+}
+
+.home-interior-design_HomeInteriorPage__1DVuX .home-interior-design_HomeInteriorBannerSection__RTXBc .home-interior-design_BannerContainer__3rgVn.home-interior-design_BannerContainerExp__3qcLB .home-interior-design_BannerBgShade__2PA4l .home-interior-design_HIMobileBannerBfc__33dy3 .home-interior-design_HIcommonBFB_btn__2XCio {
+    border: 1px solid transparent;
+    border-radius: 8px;
+    font-weight: 700;
+    line-height: 19px;
+    padding: 15px 14px;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+[type=button]:not(:disabled),
+[type=reset]:not(:disabled),
+[type=submit]:not(:disabled),
+button:not(:disabled) {
+    cursor: pointer;
+}
+
+button {
+    background: #e71c24;
+    color: #fff;
+    outline: none;
+}
+
+.carousel-item {
+    transition: transform 2.6s ease-in-out;
+}
+
+.carousel-fade .active.carousel-item-start,
+.carousel-fade .active.carousel-item-end {
+    transition: opacity 0s 2.6s;
+}
+
+.vc_custom_1541151131704 {
+    padding-top: 100px !important;
+    padding-right: 15px !important;
+    padding-bottom: 80px !important;
+    padding-left: 15px !important;
+}
+
+.vc_row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    position: relative;
+}
+
+.vc_row:before {
+    content: " ";
+    display: table;
+}
+
+.vc_column_container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+@media (min-width: 1200px) {
+    .vc_col-lg-6 {
+        width: 50%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .vc_col-lg-6 {
+        float: left;
+    }
+}
+
+.vc_col-lg-6,
+.vc_col-md-6,
+.vc_col-sm-6 {
+    position: relative;
+    min-height: 1px;
+    box-sizing: border-box;
+}
+
+.vc_custom_1616867811332 {
+    padding-top: 10px !important;
+    padding-right: 130px !important;
+    padding-left: 0px !important;
+}
+
+.vc_column_container>.vc_column-inner {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.vc_column-inner:before {
+    content: " ";
+    display: table;
+}
+
+.fadeIn.kd-animate {
+    /* -webkit-animation-name: kd-fadeIn; */
+    animation-name: kd-fadeIn;
+}
+
+.kd-animated[data-animation-delay="200"] {
+    animation-delay: .2s;
+}
+
+header.kd-section-title {
+    padding-left: 0;
+    padding-right: 0;
+    float: none;
+}
+
+.kd-animated {
+    opacity: 1;
+}
+
+.kd-animated {
+    animation-duration: .6s;
+    animation-fill-mode: both;
+}
+
+.text-left {
+    text-align: left;
+}

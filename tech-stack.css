@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.tech-stack {
+    padding-bottom: 20px;
+}
+
+.tech-stack-head {
+    max-width: 1200px;
+    margin: auto;
+    /* display: flex  */
+    padding-top: 20px;
+}
+
+.tech-stack-head h2 {
+    font-weight: 600;
+}
+
+.tech-stack-content {
+    max-width: 1200px !important;
+    margin: auto !important;
+    /* border: 2px solid grey; */
+    /* background-color: gainsboro; */
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    /* text-align: center; */
+}
+
+.tech-stack-content .tech-stack-list {
+    flex: 0 0 35%;
+    border-right: 1px solid black;
+}
+
+.tech-stack-content .tech-stack-list ul {
+    list-style-type: none;
+}
+
+.tech-stack-content .tech-stack-list .nav-tabs .active {
+    color: blue;
+}
+
+.tech-stack-content .tech-stack-list ul li {
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 23px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.tech-stack-content .tech-stack-list ul li:hover {
+    color: blue;
+}
+
+
+/* */
+
+
+/* 
+#techdiv1{
+    display: none !important;
+}
+
+#techdiv2{
+    display: none !important;
+}
+
+#techdiv3{
+    display: none !important;
+}
+
+#techdiv4{
+    display: none !important;
+} */
+
+
+/* .tech-stack-content .tech-stack-list ul li:active */
+
+
+/* .tech:hover{ */
+
+
+/* background: blue; */
+
+
+/* } */
+
+
+/* .unl{
+    padding: 0px 0px 0px 3px;
+    display: inline-block;
+    text-decoration: underline !important;
+} */
+
+.tech:after {
+    content: '';
+    width: 30px;
+    background: #333;
+    height: 3px;
+    display: block;
+    position: absolute;
+    bottom: 0;
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+}
+
+.img-plat {
+    display: block;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 4rem;
+    padding-top: 30px;
+    padding-left: 30px;
+    /* border: 1px solid gray; */
+}
+
+.img-plat img {
+    border: 1px solid grey;
+    padding: 20px;
+}
