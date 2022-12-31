@@ -1,4 +1,375 @@
+.bd {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.bd:hover {
+    transform: scale(0.9);
+    transition: all 0.5s ease;
+}
+
+.vi:hover {
+    transform: scale(0.9);
+    transition: all 0.5s ease;
+}
+
+.fo1 {
+    display: flex;
+    font-family: Gilroy;
+    margin-top: 30px;
+    padding: 5px;
+    font-size: large;
+    font-weight: bolder;
+    text-decoration: none;
+    -webkit-text-fill-color: black;
+    margin-left: 220px;
+}
+
+#tag1-leftmenu:hover {
+    -webkit-text-fill-color: blue;
+}
+
+#vs:hover {
+    -webkit-filter: grayscale(1) invert(1);
+    filter: grayscale(1) invert(1);
+}
+
+#fo2 {
+    margin-top: 20px;
+    padding: -5px;
+    text-align: center;
+    -webkit-text-fill-color: black;
+    margin-left: 50px;
+    margin-right: 1px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.bod {
+    width: 100%;
+    height: 600px;
+    background: #ffafbd;
+}
+
+.fo4 {
+    display: flex;
+    margin-top: 10px;
+}
+
+.fo5 {
+    display: flex;
+    margin-top: -10px;
+}
+
+#fu {
+    margin: 1px;
+    padding: 1px;
+}
+
+.fo3 {
+    margin-left: 20px;
+}
+
+.mod2 {
+    display: flex;
+}
+
+.mod3 {
+    display: flex;
+}
+
+.topbar-social-links {
+    display: flex;
+}
+
+#f:hover {
+    -webkit-filter: grayscale(1) invert(1);
+    filter: grayscale(1) invert(1);
+}
+
+#i:hover {
+    -webkit-filter: grayscale(1) invert(1);
+    filter: grayscale(1) invert(1);
+}
+
+#t:hover {
+    -webkit-filter: grayscale(1) invert(1);
+    filter: grayscale(1) invert(1);
+}
+
+#p:hover {
+    -webkit-filter: grayscale(1) invert(1);
+    filter: grayscale(1) invert(1);
+}
+
+.mainnav {
+    /* position: sticky; */
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.mainnav::before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+#log {
+    transition: 0.5s all ease-in-out;
+}
+
+#log:hover {
+    transform: scale(1.5);
+}
+
+.sname {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    text-decoration: underline;
+}
+
+.sname:hover {
+    -webkit-text-fill-color: red;
+}
+
+.navbar-nav-items {
+    display: flex;
+}
+
+.second-nav {
+    margin-top: 35px;
+    position: fixed;
+    z-index: 3;
+}
+
+.first-nav {
+    position: fixed;
+    z-index: 3;
+    position: relative;
+    display: block;
+    background: #26272b;
+    padding: 5px 50px;
+}
+
+.sec {
+    margin-top: 115px;
+}
+
+.secnavright {
+    margin-top: 30px;
+}
+
+#demo {
+    margin-top: -17px;
+}
+
+#tag {
+    position: relative;
+    display: flow-root;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.tag1 {
+    position: relative;
+    display: block;
+    margin-top: -10px;
+}
+
+.tag2 {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    float: right;
+    margin-top: -40px;
+}
+
+#tag1-leftmenu {
+    position: relative;
+}
+
+#tag1-leftmenu li {
+    position: relative;
+    display: inline-block;
+    float: left;
+    line-height: 30px;
+    padding-left: 30px;
+}
+
+#tag1-leftmenu li:last-child {
+    padding-left: 0px;
+}
+
+.item {
+    font-size: small;
+    padding: 5px;
+    font-weight: bolder;
+    -webkit-text-fill-color: black;
+    text-decoration: none;
+    font-family: Gilroy;
+}
+
+.item:hover {
+    -webkit-text-fill-color: red;
+}
+
+.dropdown-item {
+    font-size: small;
+    font-weight: bolder;
+    -webkit-text-fill-color: black;
+    font-family: Gilroy;
+}
+
+.dropdown-item:hover {
+    -webkit-text-fill-color: red;
+    transform: translateX(10px);
+    transition: all 0.8s ease;
+}
+
+.h {
+    margin: 20px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.mod {
+    margin-left: 100px;
+    margin-top: 50px;
+    font-weight: 700;
+    font-family: Gilroy;
+}
+
+.mod1 {
+    margin-left: 100px;
+    font-weight: 500;
+    font-family: Gilroy;
+}
+
+.mod:hover {
+    -webkit-text-fill-color: red;
+}
+
+.card-item {
+    padding: 10px;
+}
+
+.menu-btn {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 40px;
+    cursor: pointer;
+    display: none;
+}
+
+.thir {
+    background: #F6F6F6;
+    height: 380px;
+    width: 105%;
+}
+
+.thirdtopic {
+    display: flex;
+    margin: 30px;
+    padding: 10px;
+    list-style-type: none;
+}
+
+.top1 {
+    width: 100px;
+    height: 100px;
+}
+
+.t1 {
+    margin-left: 50px;
+    margin-top: 10px;
+    padding: 10px;
+    font-family: Gilroy;
+    font-weight: bolder;
+}
+
+.t2 {
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 60px;
+    font-size: larger;
+    font-family: Gilroy;
+    font-weight: 400;
+}
+
+.top2 {
+    margin-left: 730px;
+    margin-top: -10px;
+    padding: 10px;
+}
+
+.four {
+    height: 750px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.f1 {
+    -webkit-text-fill-color: black;
+    font-family: Gilroy;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    padding: 10px;
+    margin-left: 80px;
+    text-align: center;
+}
+
+.f2 {
+    text-align: center;
+    font-family: Gilroy;
+}
+
+
 /* body */
+
+.whatsapp {
+    pointer-events: all;
+    cursor: pointer;
+    position: fixed;
+    z-index: 997;
+    top: 92%;
+    left: 7%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    box-shadow: 0 1px 6px 0 rgb(0 0 0 / 6%), 0 2px 32px 0 rgb(0 0 0 / 16%);
+    background-color: #4fce5d;
+    border-radius: 50%;
+    height: 55px;
+    width: 55px;
+    transition: 0.5s ease;
+}
+
+.whatsapp .fa-whatsapp {
+    font-size: 30px;
+    color: #ffffff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: 0.5s;
+}
+
+.whatsapp:hover {
+    background-color: white;
+    box-shadow: 0 1px 6px 0 rgb(0 0 0 / 6%), 0 2px 32px 0 rgb(0 0 0 / 16%);
+}
+
+.whatsapp:hover .fa-whatsapp {
+    color: black;
+}
 
 #reason-1 {
     background: white;
@@ -2751,7 +3122,7 @@ img {
 
 .column-count[data-v-7f51e0cb] {
     /* -moz-column-count: 2; */
-    column-count: 2;
+    column-count: 1;
 }
 
 @media (min-width: 768px) {
@@ -2776,4 +3147,15 @@ img {
 .subtitle_default {
     font-size: 16px;
     line-height: 24px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+@media(max-width:700px) {
+    .lambda {
+        height: auto;
+        display: block;
+    }
 }

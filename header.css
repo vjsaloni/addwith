@@ -29,7 +29,11 @@ body {
 }
 
 #tag1-leftmenu:hover {
-    -webkit-text-fill-color: red;
+    color: blue;
+}
+
+.nav-item:hover {
+    -webkit-text-fill-color: blue;
 }
 
 #vs:hover {
@@ -187,7 +191,7 @@ body {
     display: block;
     overflow: hidden;
     float: right;
-    margin-top: -40px;
+    /* margin-top: -0px; */
 }
 
 #tag1-leftmenu {
@@ -549,4 +553,8 @@ body {
     /* body {
         width: 330%;
     } */
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
 }
