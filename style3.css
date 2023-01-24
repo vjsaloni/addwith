@@ -1224,3 +1224,356 @@ hr {
     font-size: 12px;
     line-height: 16px;
 }
+
+@media(max-width:700px) {
+    .ss {
+        width: 400px;
+    }
+    .sm {
+        font-size: xx-small;
+    }
+}
+
+.home-interiors-subdiv {
+    padding: 40px 45px 20px 45px;
+    background-color: white;
+    text-align: center;
+}
+
+.home-int-heading {
+    color: #222222;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 29px;
+    text-align: center;
+}
+
+.interior-row {
+    /* margin-left: -15px;
+    margin-right: -15px; */
+    text-align: center;
+    margin: 36px 0px;
+}
+
+.interiors {
+    width: 17%;
+    display: inline-block;
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    vertical-align: top;
+}
+
+a {
+    text-decoration: none;
+}
+
+a {
+    background-color: transparent;
+    color: #007bff;
+}
+
+.home-interiors-subdiv .content {
+    font-size: 16px;
+    font-weight: 500;
+    color: #404040;
+    margin: 30px 0px;
+}
+
+.home-interiors-subdiv .content .icon-container {
+    display: inline-block;
+    width: 100px;
+    height: 65px;
+}
+
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.interior-name {
+    color: #222222;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 17px;
+    text-align: center;
+    margin: 0px;
+    margin-top: 12px;
+}
+
+.interiors {
+    width: 17%;
+    display: inline-block;
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    vertical-align: top;
+}
+
+.home-interiors-subdiv .content {
+    font-size: 16px;
+    font-weight: 500;
+    color: #404040;
+    margin: 30px 0px;
+}
+
+.home-interiors-subdiv .content .icon-container {
+    display: inline-block;
+    width: 100px;
+    height: 65px;
+}
+
+.bookfreeConsultation_btn {
+    text-align: center;
+}
+
+.bookfreeConsultation_btn button {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 19px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: #E71C24;
+    padding: 15px 30px;
+    text-transform: uppercase;
+}
+
+button {
+    background: #e71c24;
+    /* border-radius: 0;
+    border-radius: 4px; */
+    border-style: none;
+    /* color: #fff;
+    cursor: pointer; */
+    outline: none;
+}
+
+.home-page-body>div[data-v-5c71809e]:nth-child(2n) {
+    background-color: #FFFFFF;
+}
+
+@media (min-width: 1024px) {
+    .lg\:py-20 {
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+    }
+}
+
+.wrapper-class {
+    max-width: 1150px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.livspace-edge-wrapper[data-v-5c71809e] .livspace-edge-section {
+    background-color: transparent;
+    padding: 0;
+}
+
+.livspace-edge-section[data-v-530a74dd] {
+    /* background-color: var(--on-background-5); */
+    text-align: center;
+    /* padding: 80px 0; */
+}
+
+.livspace-edge[data-v-530a74dd] {
+    max-width: 920px;
+    margin: auto;
+}
+
+.px-6 {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.h-tag {
+    color: black;
+    font-weight: 700;
+    font-family: Gilroy;
+}
+
+.h2 {
+    font-size: 35px;
+    line-height: 42px;
+}
+
+table[data-v-530a74dd] {
+    font-size: 20px;
+    line-height: 28px;
+    color: black;
+    border: 1px dashed #d9d6d8;
+    padding: 20px;
+    text-align: left;
+}
+
+table[data-v-530a74dd] {
+    margin-top: 32px;
+    border-collapse: collapse;
+}
+
+th[data-v-530a74dd]:first-child {
+    border-top-style: hidden;
+    border-left-style: hidden;
+}
+
+th[data-v-530a74dd] {
+    font-size: 20px;
+    line-height: 28px;
+    color: black;
+    border: 1px dashed #d9d6d8;
+    padding: 20px;
+    text-align: left;
+}
+
+th[data-v-530a74dd]:nth-child(2) {
+    color: #fff;
+    border-radius: 8px 8px 0 0;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    background-color: red;
+}
+
+th[data-v-530a74dd] {
+    font-size: 20px;
+    line-height: 28px;
+    /* color: var(--secondary-dark); */
+    border: 1px dashed #d9d6d8;
+    padding: 20px;
+    text-align: left;
+}
+
+th[data-v-530a74dd]:nth-child(3) {
+    border-top-style: hidden;
+    border-right-style: hidden;
+}
+
+table[data-v-530a74dd],
+td[data-v-530a74dd],
+th[data-v-530a74dd] {
+    font-size: 20px;
+    line-height: 28px;
+    color: black;
+    border: 1px dashed #d9d6d8;
+    padding: 20px;
+    text-align: left;
+}
+
+td[data-v-530a74dd]:first-child {
+    width: 45px;
+    vertical-align: middle;
+}
+
+td[data-v-530a74dd] {
+    font-size: 20px;
+    line-height: 28px;
+    color: black;
+    border: 1px dashed #d9d6d8;
+    padding: 20px;
+    text-align: left;
+}
+
+.subtitle_small {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+td[data-v-530a74dd]:nth-child(2) {
+    background-color: #fff;
+    color: var(--tertiary-green);
+    box-shadow: 0 2px 6px 0 rgb(65 48 62 / 12%);
+    border-right-style: hidden;
+    border-left-style: hidden;
+}
+
+td[data-v-530a74dd] {
+    font-size: 20px;
+    line-height: 28px;
+    color: black;
+    border: 1px dashed #d9d6d8;
+    padding: 20px;
+    text-align: left;
+}
+
+td:nth-child(2) ul[data-v-530a74dd] {
+    font-size: 20px;
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+td:nth-child(2) ul[data-v-530a74dd] {
+    color: red;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+::marker {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: start !important;
+}
+
+td:nth-child(2) p[data-v-530a74dd] {
+    font-weight: 500;
+    color: black;
+}
+
+.body_default {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+td:nth-child(3) ul[data-v-530a74dd] {
+    color: var(--secondary-dark);
+}
+
+td:nth-child(3) ul[data-v-530a74dd] {
+    font-size: 20px;
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+td[data-v-530a74dd]:first-child {
+    width: 45px;
+    vertical-align: middle;
+}
+
+td[data-v-530a74dd] {
+    font-size: 20px;
+    line-height: 28px;
+    color: black;
+    border: 1px dashed #d9d6d8;
+    padding: 20px;
+    text-align: left;
+}
+
+.talk-designer-cta[data-v-530a74dd] {
+    width: max-content;
+    margin: 28px auto 0;
+}
+
+.btn48-primary-normal {
+    background-color: red;
+    border-radius: 24px;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: .75px;
+    line-height: 24px;
+    padding: 12px 48px;
+    text-transform: uppercase;
+    text-align: center;
+}

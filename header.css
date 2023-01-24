@@ -234,6 +234,7 @@ body {
     -webkit-text-fill-color: red;
     transform: translateX(10px);
     transition: all 0.8s ease;
+    border-bottom: 2px solid blue;
 }
 
 .h {
@@ -289,7 +290,7 @@ body {
     position: absolute;
     top: 5%;
     left: 1%;
-    color: #1d73f8;
+    /* color: #1d73f8; */
     font-size: 22px;
 }
 
@@ -309,7 +310,7 @@ body {
 } */
 
 .callbox:hover {
-    background-color: #1d73f8;
+    /* background-color: #1d73f8; */
 }
 
 .callbox:hover>i {

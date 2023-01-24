@@ -11,6 +11,7 @@
     <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
     <title>Admith Kitchen</title>
 </head>
 
@@ -76,8 +77,9 @@
         </div>
     </section>
     <div class="talk-to-expert-fixed">
-        <button onclick="Calendly.initPopupWidget({url: 'https:/calendly.com/metablocktechnologies'});return false;">Schedule a Meeting</button>
+        <button onclick="Calendly.initPopupWidget({url: 'https://calendly.com/metablocktechnologies'});return false;">Schedule a Meeting</button>
     </div>
+
     <second>
 
         <div class="container-fluid-lg bg-white">
@@ -875,14 +877,19 @@
                     <h4 style="margin-left:85px;">Here’s what they have to say</h4>
                 </div>
                 <div class="col-md-5">
-                    <h5> <a href="KITCHEN.html" style="font-family:Gilroy;font-weight:bolder;font-size:larger;-webkit-text-fill-color: red;margin-top: 100vh;margin-right: 30px;" class="n7">
+                </div>
+
+            </div>
+            <div class="row" style="margin-top: -30px;">
+                <div class="col-md-7"></div>
+                <div class="col-md-5">
+                    <h5> <a href="KITCHEN.html" style="font-family:Gilroy;font-weight:bolder;font-size:larger;-webkit-text-fill-color: red;" class="n7">
                 Explore More-
                 </h5> </a></div>
-
             </div>
 
 
-            <div class="row s2">
+            <div class="row s2" style="margin-top: -40px;">
                 <div class="col-4 s3">
                     <div class="card-item s6" style="width:350px;height: 380px;margin-left: 85px;">
                         <img class="card-img-top rounded" style="height: 200px;" src="./img/download 3.jpg" alt="Card image">
@@ -925,7 +932,7 @@
             </div>
         </div>
     </sixth>
-    <div class="container get-in-touch">
+    <!-- <div class="container get-in-touch">
         <div class="get-in-info">
             <h2><b>Get in Touch</b></h2>
             <span>Let's talk about your project</span>
@@ -988,26 +995,96 @@
             </div>
         </div>
 
+    </div> -->
+    <div class="container get-in-touch">
+        <div class="get-in-info">
+            <h2>Get in Touch</h2>
+            <span>Let's get to Know Blockchain</span>
+        </div>
+        <div class="row" style="box-shadow: 0 1px 5px 0 black;width:85%;margin-left: 80px;">
+            <div class="col-lg-5 col-md-12 col-sm-12 img-section">
+                <!-- <img src="images/get-in-touch.png" alt="Get in Touch"> -->
+                <div class="container" style="background:#ffe9ec;">
+                    <h3><b>Contact Information</b> </h3>
+                    <h5 style="padding: 5px;"> <i class="fa-solid fa-phone"></i><b>  Phone : </b> <a href="tel:+919358593003" target="_blank" style="color:black;padding:5px;text-decoration:none;font-size:small;">+91 935 859 3003</a></h5>
+
+                    <h5 style="padding: 5px;"><i class="fa-solid fa-envelope"></i><b> Email : </b> <a href="mailto: Info@metablocktechnologies.io" target="_blank" style="color:black;padding:5px;text-decoration:none;font-size: small;">Info@metablocktechnologies.io</a></h5>
+
+                    <h5 style="padding: 5px;"><a href="https://g.page/r/CQCWDvMRS9YYEBM/review" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marker-alt"></i></a><b> Address : </b>
+                        <p style="color:black;padding:5px;text-decoration:none;font-size: small;"> 1st Floor, B.L. Tower 4, Plot No.- 45-46, Gayatri Nagar, Maharani Farms, Durgapura, Jaipur, Rajasthan 302018 </p>
+                    </h5>
+
+                </div>
+            </div>
+            <div class="col-lg-7 col-md-12 col-sm-12 get-in-content">
+                <div class="first-row">
+                    <div class="first-row-first">
+                        <span>Name</span>
+                        <input type="text" placeholder="Enter your name ">
+                    </div>
+                    <div class="first-row-second">
+                        <span>Mail</span>
+                        <input type="email" placeholder="Enter your email ">
+                    </div>
+                </div>
+                <div class="second-row">
+                    <div class="second-row-first">
+                        <span>Mobile Number</span>
+                        <input type="number" placeholder="Enter Mobile No.">
+                    </div>
+                    <div class="second-row-second">
+                        <span>How can we contact you?</span>
+                        <form action="#">
+                            <label for="lang"></label>
+                            <select name="Select" id="lang">
+                                <option value="Phone">Phone</option>
+                                <option value="Email">Email</option>
+                            </select>
+                        </form>
+                    </div>
+                </div>
+                <div class="third-row">
+                    <h6 style="font-weight:600;margin-left: -2px;">What type of services do you need? </h6>
+                </div>
+                <div class="fourth-row">
+                    <input type="checkbox" id="agreement" name="agreement" style="font-weight:600;margin-bottom: 10px;margin-right: 5px;">
+                    <span style="font-weight:600;margin-bottom: 10px;margin-right: 25px;font-size: small;">Kitchen</span>
+                    <input type="checkbox" id="agreement" name="agreement" style="font-weight:600;margin-bottom: 10px;margin-right: 5px;">
+                    <span style="font-weight:600;margin-bottom: 10px;margin-right: 25px;font-size: small;">Bed</span>
+                    <input type="checkbox" id="agreement" name="agreement" style="font-weight:600;margin-bottom: 10px;margin-right: 5px;">
+                    <span style="font-weight:600;margin-bottom: 10px;margin-right: 25px;font-size: small;">Wardrobe</span>
+                    <input type="checkbox" id="agreement" name="agreement" style="font-weight:600;margin-bottom: 10px;margin-right: 5px;">
+                    <span style="font-weight:600;margin-bottom: 10px;margin-right: 25px;font-size: small;">T.V.</span>
+                </div>
+                <!-- <h5>We are Providing Top Quality Training in Latest Technology like Blockchain.. Get in Touch with us to Transform your Career and Build your Portfolio in WEB3</h5> -->
+                <div class="get-in-cta-button" style="margin-left:180px;margin-top: -10px;">
+                    <button class="get-in-button">Send Message</button>
+                </div>
+            </div>
+        </div>
     </div>
     <Choose></Choose>
     <Updated></Updated>
     <form1></form1>
     <faq></faq>
     <footer></footer>
+    <script>
+        $(function() {
+            $("header").load('header.html')
+            $("footer").load('footer.html')
+            $("faq").load('faq.html')
+            $("form1").load('form1.html')
+            $("Updated").load('Updated.html')
+            $("Choose").load('Choose.html')
+        })
+    </script>
+    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+
 </body>
 
 
-<script>
-    $(function() {
-        $("header").load('header.html')
-        $("footer").load('footer.html')
-        $("faq").load('faq.html')
-        $("form1").load('form1.html')
-        $("Updated").load('Updated.html')
-        $("Choose").load('Choose.html')
-    })
-</script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="script.js"></script>
+
 
 </html>
