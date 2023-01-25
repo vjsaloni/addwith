@@ -39,7 +39,33 @@ body {
 }
 
 #tag1-leftmenu:hover {
-    -webkit-text-fill-color: blue;
+    -webkit-text-fill-color: black;
+}
+
+.header-social {
+    margin-right: 5px;
+    position: relative;
+    height: 25px;
+    width: 25px;
+    color: white;
+    transition: all 0.5s;
+    margin-top: 8px;
+}
+
+.header-social i {
+    color: white;
+}
+
+.header-social:hover i {
+    color: black;
+}
+
+.header-social i {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 10px;
+    width: 10px;
 }
 
 #vs:hover {

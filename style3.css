@@ -1577,3 +1577,7 @@ td[data-v-530a74dd] {
     text-transform: uppercase;
     text-align: center;
 }
+
+.entry {
+    color: red;
+}

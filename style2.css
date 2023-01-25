@@ -3874,7 +3874,7 @@ h3 {
 }
 
 h3 {
-    color: #41303e;
+    /* color: #41303e; */
     /* color: var(--secondary-dark); */
     font-weight: 700;
     font-family: Gilroy;
@@ -5532,9 +5532,45 @@ header.kd-section-title {
 }
 
 .mainsec {
-    height: 500px;
+    height: 550px;
     width: 100%;
     background: url(./img/Referral_web.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
+
+.mainbox {
+    height: 300px;
+    width: 320px;
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 8px;
+    margin-top: 40px;
+}
+
+.refer-social li {
+    margin-right: 10px;
+    position: relative;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: #ececec;
+    transition: all 0.5s;
+}
+
+.refer-social li:hover {
+    background-color: red;
+}
+
+.refer-social li:hover i {
+    color: white;
+}
+
+.refer-social li i {
+    color: red;
+    margin-top: 8px;
+    margin-left: 10px;
 }
 
 
